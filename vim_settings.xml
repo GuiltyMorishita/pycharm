@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/ALEX_DOLL.py" timestamp="1477460353737" />
+      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/ALEX_DOLL.py" timestamp="1477460665730" />
     </filemarks>
     <jumps />
     <registers />
