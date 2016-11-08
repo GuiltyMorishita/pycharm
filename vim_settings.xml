@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -21,6 +33,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="5" />
@@ -37,37 +55,42 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbVsnaGVybyddID0gY2FyZC5maW5kKCJzcGFuIiwgY2xhc3NfPSJjbGFzcyIpLnN0cmluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtID0gU2hhZG93dmVyc2VHYW1ld2l0aFNjcmFweUl0ZW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbVsnJ10gPSBjYXJkLmZpbmQoInNwYW4iLCBjbGFzc189Im5hbWUiKS5zdHJpbmcpCiAgICAgICAgICAgICA9IAogICAgICAgICAgICB0eXBlID0gCiAgICAgICAgICAgIGhlcm8gPSAKICAgICAgICAgICAgcmFjZSA9IAogICAgICAgICAgICBjYXJkX3RlCiAgICAgICAgICAgIG1hbmEgPSAKICAgICAgICAgICAgYXR0YWNrIAogICAgICAgICAgICBoZWFsdGggCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBpdGVtcyBpbXBvcnQgU2hhZG93dmVyc2VHYW1ld2l0aFNjcmFweUl0ZW0K</text>
+      <register name="2" type="8">
+        <text>rarity
+rarity
+rarity
+rarity
+rarity
+rarity</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNhcmRfdXJscykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpdGVtWyJuYW1lIl0gPQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpdGVtID0gSGVhcnRoU3RvbmVJdGVtKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVzIGluIHNvdXAueHBhdGgoJy8vKltAaWQ9IlVOSVRfTElTVCJdLyonKToK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiMgRGVmaW5lIGhlcmUgdGhlIG1vZGVscyBmb3IgeW91ciBzY3JhcGVkIGl0ZW1zCiMKIyBTZWUgZG9jdW1lbnRhdGlvbiBpbjoKIyBodHRwOi8vZG9jLnNjcmFweS5vcmcvZW4vbGF0ZXN0L3RvcGljcy9pdGVtcy5odG1s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS54cGF0aCgnLy8qW0BpZD0iVU5JVF9MSVNUIl0vKicpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQgPSBzY3JhcHkuRmllbGQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>hero</text>
       </register>
     </registers>
     <search>
@@ -80,6 +103,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
