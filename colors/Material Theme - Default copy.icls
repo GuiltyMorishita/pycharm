@@ -1234,7 +1234,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="a300e6" />
+        <option name="FOREGROUND" value="af8ee6" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -1264,11 +1264,17 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f29384" />
+      </value>
+    </option>
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="89ddff" />
