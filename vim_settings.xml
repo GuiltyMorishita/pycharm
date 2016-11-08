@@ -8,15 +8,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478501517444">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478513713257">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478510803140">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478514201451">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
         <mark key="[" line="12" column="0" />
@@ -37,25 +37,31 @@
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpdGVtID0gU2hhZG93dmVyc2VHYW1ld2l0aFNjcmFweUl0ZW0oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImhvZ2Vob2dlaG5vZ2UiKQo=</text>
+        <text encoding="base64">ZnJvbSBpdGVtcyBpbXBvcnQgU2hhZG93dmVyc2VHYW1ld2l0aFNjcmFweUl0ZW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbmFtZSA9IHNjcmFweS5GaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNhcmRfdXJscykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVmaW5lIHRoZSBmaWVsZHMgZm9yIHlvdXIgaXRlbSBoZXJlIGxpa2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiMgRGVmaW5lIGhlcmUgdGhlIG1vZGVscyBmb3IgeW91ciBzY3JhcGVkIGl0ZW1zCiMKIyBTZWUgZG9jdW1lbnRhdGlvbiBpbjoKIyBodHRwOi8vZG9jLnNjcmFweS5vcmcvZW4vbGF0ZXN0L3RvcGljcy9pdGVtcy5odG1s</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
