@@ -25,14 +25,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1478590111933">
+      <file name="/Python Console" timestamp="1478672406159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478671371839">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478674107053">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1478672320418">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
         <mark key="[" line="1" column="13" />
@@ -64,9 +66,27 @@
         <text encoding="base64">ICAgICAgICAgICAgaXRlbVsnaGVybyddID0gY2FyZC5maW5kKCJzcGFuIiwgY2xhc3NfPSJjbGFzcyIpLnN0cmluZwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNhcmRfbmFtZXMuYXBwZW5kKGNhcmRbIm5hbWUiXSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgTGFiZWxlZExpbmVTZW50ZW5jZShvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZpbGVuYW1lKToKICAgICAgICBzZWxmLmZpbGVuYW1lID0gZmlsZW5hbWUKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKToKICAgICAgICBmb3IgdWlkLCBsaW5lIGluIGVudW1lcmF0ZShvcGVuKHNlbGYuZmlsZW5hbWUpKToKICAgICAgICAgICAgeWllbGQgTGFiZWxlZFNlbnRlbmNlKHdvcmRzPWxpbmUuc3BsaXQoKSwgbGFiZWxzPVsnU0VOVF8lcycgJSB1aWRdKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0IExhYmVsZWRTZW50ZW5jZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSBnZW5zaW0gaW1wb3J0IG1vZGVscwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0ZGQgTGFiZWxlZFNlbnRlbmNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMoaHNfY2FyZF9kYXRhLCBzb3J0X2tleXM9VHJ1ZSwgaW5kZW50PTQpKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbVsnJ10gPSBjYXJkLmZpbmQoInNwYW4iLCBjbGFzc189Im5hbWUiKS5zdHJpbmcpCiAgICAgICAgICAgICA9IAogICAgICAgICAgICB0eXBlID0gCiAgICAgICAgICAgIGhlcm8gPSAKICAgICAgICAgICAgcmFjZSA9IAogICAgICAgICAgICBjYXJkX3RlCiAgICAgICAgICAgIG1hbmEgPSAKICAgICAgICAgICAgYXR0YWNrIAogICAgICAgICAgICBoZWFsdGggCg==</text>
       </register>
-      <register name="2" type="8">
+      <register name="8" type="8">
         <text>rarity
 rarity
 rarity
@@ -74,26 +94,8 @@ rarity
 rarity
 rarity</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpdGVtWyJuYW1lIl0gPQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpdGVtID0gSGVhcnRoU3RvbmVJdGVtKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVzIGluIHNvdXAueHBhdGgoJy8vKltAaWQ9IlVOSVRfTElTVCJdLyonKToK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS54cGF0aCgnLy8qW0BpZD0iVU5JVF9MSVNUIl0vKicpKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSBzY3JhcHkuRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>hero</text>
@@ -112,6 +114,9 @@ rarity</text>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
