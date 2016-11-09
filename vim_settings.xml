@@ -3,18 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="20" column="57" />
-        <mark key="." line="20" column="57" />
-        <mark key="^" line="20" column="57" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -28,18 +16,14 @@
       <file name="/Python Console" timestamp="1478672406159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478674107053">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478681211976">
+        <mark key="'" line="50" column="6" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1478672320418">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
         <mark key="[" line="29" column="17" />
@@ -59,54 +43,83 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/gensim/models/doc2vec.py" timestamp="1478679703317" />
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="16" column="22" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
+      <jump line="35" column="2" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
+      <jump line="37" column="6" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbVsnaGVybyddID0gY2FyZC5maW5kKCJzcGFuIiwgY2xhc3NfPSJjbGFzcyIpLnN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VudGVuY2UgPSBkb2MydmVjLlRhZ2dlZERvY3VtZW50KHdvcmRzPW1lY2FiX3Jlc3VsdC5zcGxpdCgpLCB0YWdzPVtjYXJkWyJuYW1lIl1dKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhcmRfbmFtZXMuYXBwZW5kKGNhcmRbIm5hbWUiXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHNpbWlsYXJfZG9jKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgTGFiZWxlZExpbmVTZW50ZW5jZShvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZpbGVuYW1lKToKICAgICAgICBzZWxmLmZpbGVuYW1lID0gZmlsZW5hbWUKICAgIGRlZiBfX2l0ZXJfXyhzZWxmKToKICAgICAgICBmb3IgdWlkLCBsaW5lIGluIGVudW1lcmF0ZShvcGVuKHNlbGYuZmlsZW5hbWUpKToKICAgICAgICAgICAgeWllbGQgTGFiZWxlZFNlbnRlbmNlKHdvcmRzPWxpbmUuc3BsaXQoKSwgbGFiZWxzPVsnU0VOVF8lcycgJSB1aWRdKQo=</text>
+        <text encoding="base64">IyBwcmludChuYW1lc1tjYXJkX2luZGV4XSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0IExhYmVsZWRTZW50ZW5jZQo=</text>
+        <text encoding="base64">IyDjgqvjg7zjg4nlkI3jgajjgqvjg7zjg4njg4bjgq3jgrnjg4jjga7lhaXlipvjg4fjg7zjgr/kvZzmiJAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBnZW5zaW0gaW1wb3J0IG1vZGVscwo=</text>
+        <text encoding="base64">ZGQjIGxhYmVsZWRTZW50ZW5jZXMgPSBkb2MydmVjLkxhYmVsZWRMaXN0U2VudGVuY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0ZGQgTGFiZWxlZFNlbnRlbmNlCg==</text>
+        <text encoding="base64">bmFtZXMgPSAiIgp0ZXh0cyA9ICIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMoaHNfY2FyZF9kYXRhLCBzb3J0X2tleXM9VHJ1ZSwgaW5kZW50PTQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbVsnJ10gPSBjYXJkLmZpbmQoInNwYW4iLCBjbGFzc189Im5hbWUiKS5zdHJpbmcpCiAgICAgICAgICAgICA9IAogICAgICAgICAgICB0eXBlID0gCiAgICAgICAgICAgIGhlcm8gPSAKICAgICAgICAgICAgcmFjZSA9IAogICAgICAgICAgICBjYXJkX3RlCiAgICAgICAgICAgIG1hbmEgPSAKICAgICAgICAgICAgYXR0YWNrIAogICAgICAgICAgICBoZWFsdGggCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>rarity
-rarity
-rarity
-rarity
-rarity
-rarity</text>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQodGV4dHMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVjYWJfcmVzdWx0LCBlbmQ9IiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>hero</text>
+        <text>chasen</text>
+      </register>
+      <register name="/" type="4">
+        <text>print</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>print</last-search>
+      <last-offset />
+      <last-pattern>print</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>print</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
@@ -117,6 +130,9 @@ rarity</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
