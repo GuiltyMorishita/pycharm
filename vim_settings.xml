@@ -16,11 +16,11 @@
       <file name="/Python Console" timestamp="1478672406159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478681211976">
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478767966651">
         <mark key="'" line="50" column="6" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="21" />
       </file>
       <file name="/fragment.py" timestamp="1478672320418">
         <mark key="[" line="0" column="0" />
@@ -103,7 +103,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVjYWJfcmVzdWx0LCBlbmQ9IiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>chasen</text>
+        <text>酸性沼ウーズ</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
