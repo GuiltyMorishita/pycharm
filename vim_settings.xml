@@ -16,11 +16,11 @@
       <file name="/Python Console" timestamp="1478672406159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479180283635">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479183039670">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478767966651">
         <mark key="'" line="50" column="6" />
@@ -97,38 +97,38 @@
       <jump line="37" column="6" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSdWxlKExpbmtFeHRyYWN0b3IociIvbGlzdC9saXN0IiwgKSwgZm9sbG93PVRydWUpLAo=</text>
+      <register name="0" type="4">
+        <text>http://ocg-card.com/list/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkubGlua2V4dHJhY3RvcnMgaW1wb3J0IExpbmtFeHRyYWN0b3IK</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuc3BpZGVycyBpbXBvcnQgUnVsZQo=</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkubGlua2V4dHJhY3RvcnMgaW1wb3J0IExpbmtFeHRyYWN0b3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhcmRzID0gWyhpK2opIGZvciAoaSwgaikgaW4gemlwKHRhYmxlX3Jvd3NbOjoyXSwgdGFibGVfcm93c1sxOjoyXSldCg==</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkuc3BpZGVycyBpbXBvcnQgUnVsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJ1bGVzID0gWwogICAgICAgIFJ1bGUoTGlua0V4dHJhY3RvcihhbGxvdz1yIi9saXN0L2xpc3QiKSwgZm9sbG93PVRydWUpLAogICAgICAgIFJ1bGUoTGlua0V4dHJhY3RvcihhbGxvdz1yIi9saXN0L2xpc3QiLCB1bmlxdWU9VHJ1ZSksIGNhbGxiYWNrPSJwYXJzZSIpCiAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhcmRzID0gWyhpK2opIGZvciAoaSwgaikgaW4gemlwKHRhYmxlX3Jvd3NbOjoyXSwgdGFibGVfcm93c1sxOjoyXSldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3VybHMgPSBbJ2h0dHA6Ly9vY2ctY2FyZC5jb20vbGlzdC8nXQo=</text>
+        <text encoding="base64">ICAgIHJ1bGVzID0gWwogICAgICAgIFJ1bGUoTGlua0V4dHJhY3RvcihhbGxvdz1yIi9saXN0L2xpc3QiKSwgZm9sbG93PVRydWUpLAogICAgICAgIFJ1bGUoTGlua0V4dHJhY3RvcihhbGxvdz1yIi9saXN0L2xpc3QiLCB1bmlxdWU9VHJ1ZSksIGNhbGxiYWNrPSJwYXJzZSIpCiAgICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3VybHMgPSBbJ2h0dHA6Ly9vY2ctY2FyZC5jb20vbGlzdC8nXQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuZnJvbSBzY3JhcHkuY29udHJpYi5zcGlkZXJzIGltcG9ydCBDcmF3bFNwaWRlciwgUnVsZWNvbnRyaWIuc3BpZGVycyBpbXBvcnQgQ3Jhd2xTcGlkZXIsIFJ1bGUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>ocg-card.com</text>
+        <text>deny=r&quot;http://ocg-card.com/list/&quot;</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
