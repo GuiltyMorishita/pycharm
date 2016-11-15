@@ -31,6 +31,9 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
+      <file name="/a.dummy" timestamp="1479174469696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="5" />
@@ -43,13 +46,23 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/items.py" timestamp="1479173977290">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="15" column="10" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/gensim/models/doc2vec.py" timestamp="1478679703317" />
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="20" column="57" />
@@ -64,6 +77,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479178709376">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="22" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
@@ -73,37 +92,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudGVuY2UgPSBkb2MydmVjLlRhZ2dlZERvY3VtZW50KHdvcmRzPW1lY2FiX3Jlc3VsdC5zcGxpdCgpLCB0YWdzPVtjYXJkWyJuYW1lIl1dKQo=</text>
+        <text encoding="base64">ICAgICAgICBSdWxlKExpbmtFeHRyYWN0b3IociIvbGlzdC9saXN0IiwgKSwgZm9sbG93PVRydWUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpbWlsYXJfZG9jKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwcmludChuYW1lc1tjYXJkX2luZGV4XSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDjgqvjg7zjg4nlkI3jgajjgqvjg7zjg4njg4bjgq3jgrnjg4jjga7lhaXlipvjg4fjg7zjgr/kvZzmiJAK</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkuZnJvbSBzY3JhcHkuY29udHJpYi5zcGlkZXJzIGltcG9ydCBDcmF3bFNwaWRlciwgUnVsZWNvbnRyaWIuc3BpZGVycyBpbXBvcnQgQ3Jhd2xTcGlkZXIsIFJ1bGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQjIGxhYmVsZWRTZW50ZW5jZXMgPSBkb2MydmVjLkxhYmVsZWRMaXN0U2VudGVuY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZXMgPSAiIgp0ZXh0cyA9ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG93ZXIuZmluZCgidGQiKS50ZXh0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXBwZXIuZmluZEFsbCgidGQiKVsxXS5zdHJpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQodGV4dHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobG93ZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVjYWJfcmVzdWx0LCBlbmQ9IiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXBwZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>酸性沼ウーズ</text>
+        <text>card.find(&quot;span&quot;, class_=&quot;card_comment&quot;).find(&quot;p&quot;).string</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
