@@ -16,11 +16,10 @@
       <file name="/Python Console" timestamp="1478672406159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479185987228">
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="12" column="45" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479194918591">
+        <mark key="[" line="32" column="53" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478767966651">
         <mark key="'" line="50" column="6" />
@@ -83,7 +82,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479178709376">
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479193892356">
         <mark key="[" line="29" column="17" />
         <mark key="]" line="29" column="17" />
         <mark key="^" line="29" column="17" />
@@ -101,34 +100,34 @@
         <text>http://ocg-card.com/list/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2h0dHA6Ly9vY2ctY2FyZC5jb20vbGlzdC9saXN0OTExLnBocCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGxvd2VyLmZpbmQoInRkIikudGV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHVwcGVyLmZpbmRBbGwoInRkIilbMV0udGV4dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0X3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IFl1Z2lvaEl0ZW0oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBydWxlcyA9IFsKICAgICAgICBSdWxlKExpbmtFeHRyYWN0b3IoYWxsb3c9KHInL2xpc3QvbGlzdCguKikucGhwJCcpLCBkZW55PShyIi9saXN0LyQiKSksIGNhbGxiYWNrPSJwYXJzZSIpCiAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwodGFibGVfcm93c1stMV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSdWxlKExpbmtFeHRyYWN0b3IoYWxsb3c9KHIiL2xpc3QvbGlzdCguKikiKSksIGZvbGxvdz1UcnVlKSwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBzY3JhcHkubGlua2V4dHJhY3RvcnMgaW1wb3J0IExpbmtFeHRyYWN0b3IK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBzY3JhcHkuc3BpZGVycyBpbXBvcnQgUnVsZQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRhYmxlX3Jvd3MgPSBzb3VwLmZpbmQoInRhYmxlIiwgYm9yZGVyPTIpLmZpbmRBbGwoInRyIikK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVybCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaHJlZikK</text>
+      </register>
       <register name="-" type="4">
-        <text>http://www.example.com/1.html</text>
+        <text>item['text'] =</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
