@@ -16,10 +16,10 @@
       <file name="/Python Console" timestamp="1478672406159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479194918591">
-        <mark key="[" line="32" column="53" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1478767966651">
         <mark key="'" line="50" column="6" />
@@ -100,31 +100,31 @@
         <text>http://ocg-card.com/list/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGxvd2VyLmZpbmQoInRkIikudGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4odXJsX2xpc3QpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHVwcGVyLmZpbmRBbGwoInRkIilbMV0udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4odGFyZ2V0X3VybHMpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IFl1Z2lvaEl0ZW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGxvd2VyLmZpbmQoInRkIikudGV4dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwodGFibGVfcm93c1stMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHVwcGVyLmZpbmRBbGwoInRkIilbMV0udGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkubGlua2V4dHJhY3RvcnMgaW1wb3J0IExpbmtFeHRyYWN0b3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IFl1Z2lvaEl0ZW0oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuc3BpZGVycyBpbXBvcnQgUnVsZQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWwodGFibGVfcm93c1stMV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRhYmxlX3Jvd3MgPSBzb3VwLmZpbmQoInRhYmxlIiwgYm9yZGVyPTIpLmZpbmRBbGwoInRyIikK</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkubGlua2V4dHJhY3RvcnMgaW1wb3J0IExpbmtFeHRyYWN0b3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHVybCkK</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkuc3BpZGVycyBpbXBvcnQgUnVsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaHJlZikK</text>
+        <text encoding="base64">ICAgICAgICAjIHRhYmxlX3Jvd3MgPSBzb3VwLmZpbmQoInRhYmxlIiwgYm9yZGVyPTIpLmZpbmRBbGwoInRyIikK</text>
       </register>
       <register name="-" type="4">
         <text>item['text'] =</text>
