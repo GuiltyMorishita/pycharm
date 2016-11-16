@@ -21,12 +21,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479199975681">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="38" column="20" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479267757250">
+        <mark key="'" line="49" column="6" />
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1478672320418">
         <mark key="[" line="0" column="0" />
@@ -84,6 +83,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1479267874775">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="31" column="0" />
@@ -107,31 +112,31 @@
         <text>http://ocg-card.com/list/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dHMuYXBwZW5kKGNhcmRbInRleHQiXSkK</text>
+        <text encoding="base64">dHh0X3BhdGggPSB0YXJnZXRfZ2FtZV9uYW1lICsgIi50eHQiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbih0ZXh0cykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dHMuYXBwZW5kKGNhcmRbInRleHQiXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihuYW1lcykpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbih0ZXh0cykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50KGxlbihuYW1lcykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBjYXJkIGluIGNhcmRfZGljdDoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBjYXJkIGluIGNhcmRfZGljdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAjIOOBk+OBk+OBi+OCieWNmOiqnuWQjOWjq+OBrumhnuS8vOW6pgojIHdvcmQgPSB1J+atpuWZqCcgICMg6aGe5Ly85Y2Y6Kqe44KS5rGC44KB44Gf44GE5Y2Y6KqeCiMgcHJpbnQod29yZCArICcgaXMgc2ltaWxhciB0by4uLicpCiMgIyDpoZ7kvLzljZjoqp7jgajpoZ7kvLzluqbjga7jgr/jg5fjg6vvvIjpoZ7kvLzluqbkuIrkvY0xMOS7tu+8ieOBruODquOCueODiOOCkuWPl+OBkeWPluOCiwojIGZvciBzaW1pbGFyaXR5IGluIG1vZGVsLm1vc3Rfc2ltaWxhcihwb3NpdGl2ZT13b3JkKToKIyAgICAgIyDjgr/jg5fjg6vjga7jgb7jgb5JUHl0aG9u44Gr5Ye65Yqb44GZ44KL44Go44Oq44OG44Op44Or6KGo56S644GV44KM44Gq44GE44Gu44Gn44GT44Gu5pu444GN5pa5CiMgICAgIHByaW50KHNpbWlsYXJpdHlbMF0sIHNpbWlsYXJpdHlbMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IyAjIOOBk+OBk+OBi+OCieWNmOiqnuWQjOWjq+OBrumhnuS8vOW6pgojIHdvcmQgPSB1J+atpuWZqCcgICMg6aGe5Ly85Y2Y6Kqe44KS5rGC44KB44Gf44GE5Y2Y6KqeCiMgcHJpbnQod29yZCArICcgaXMgc2ltaWxhciB0by4uLicpCiMgIyDpoZ7kvLzljZjoqp7jgajpoZ7kvLzluqbjga7jgr/jg5fjg6vvvIjpoZ7kvLzluqbkuIrkvY0xMOS7tu+8ieOBruODquOCueODiOOCkuWPl+OBkeWPluOCiwojIGZvciBzaW1pbGFyaXR5IGluIG1vZGVsLm1vc3Rfc2ltaWxhcihwb3NpdGl2ZT13b3JkKToKIyAgICAgIyDjgr/jg5fjg6vjga7jgb7jgb5JUHl0aG9u44Gr5Ye65Yqb44GZ44KL44Go44Oq44OG44Op44Or6KGo56S644GV44KM44Gq44GE44Gu44Gn44GT44Gu5pu444GN5pa5CiMgICAgIHByaW50KHNpbWlsYXJpdHlbMF0sIHNpbWlsYXJpdHlbMV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4odXJsX2xpc3QpKQo=</text>
+        <text encoding="base64">IyAjIOOBk+OBk+OBi+OCieWNmOiqnuWQjOWjq+OBrumhnuS8vOW6pgojIHdvcmQgPSB1J+atpuWZqCcgICMg6aGe5Ly85Y2Y6Kqe44KS5rGC44KB44Gf44GE5Y2Y6KqeCiMgcHJpbnQod29yZCArICcgaXMgc2ltaWxhciB0by4uLicpCiMgIyDpoZ7kvLzljZjoqp7jgajpoZ7kvLzluqbjga7jgr/jg5fjg6vvvIjpoZ7kvLzluqbkuIrkvY0xMOS7tu+8ieOBruODquOCueODiOOCkuWPl+OBkeWPluOCiwojIGZvciBzaW1pbGFyaXR5IGluIG1vZGVsLm1vc3Rfc2ltaWxhcihwb3NpdGl2ZT13b3JkKToKIyAgICAgIyDjgr/jg5fjg6vjga7jgb7jgb5JUHl0aG9u44Gr5Ye65Yqb44GZ44KL44Go44Oq44OG44Op44Or6KGo56S644GV44KM44Gq44GE44Gu44Gn44GT44Gu5pu444GN5pa5CiMgICAgIHByaW50KHNpbWlsYXJpdHlbMF0sIHNpbWlsYXJpdHlbMV0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>card_text.txt&quot;, &quot;w&quot;) as file:</text>
