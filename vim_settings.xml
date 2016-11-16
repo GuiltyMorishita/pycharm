@@ -13,7 +13,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1478672406159">
+      <file name="/Python Console" timestamp="1479283603718">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
@@ -21,14 +21,14 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479273464472">
-        <mark key="'" line="49" column="6" />
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479283611400">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="42" column="94" />
+        <mark key="]" line="42" column="95" />
+        <mark key="." line="42" column="95" />
+        <mark key="^" line="42" column="95" />
       </file>
-      <file name="/fragment.py" timestamp="1478672320418">
+      <file name="/fragment.py" timestamp="1479283683667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
@@ -37,7 +37,7 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1479174469696">
+      <file name="/a.dummy" timestamp="1479279644480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
@@ -90,10 +90,22 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/items.py" timestamp="1479279923497">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1479281899574">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="17" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479198871653">
         <mark key="[" line="29" column="17" />
@@ -109,38 +121,38 @@
       <jump line="37" column="6" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>http://ocg-card.com/list/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgbW9kZWwgPSBkb2MydmVjLkRvYzJWZWMoY2FyZF90ZXh0LCBzaXplPTEwMCwgd2luZG93PTksIG1pbl9jb3VudD0xLCB3b3JrZXJzPTQsIGl0ZXI9MTAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHh0X3BhdGggPSB0YXJnZXRfZ2FtZV9uYW1lICsgIi50eHQiCg==</text>
+        <text encoding="base64">bmFtZXMuaW5kZXgoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dHMuYXBwZW5kKGNhcmRbInRleHQiXSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbih0ZXh0cykpCg==</text>
+        <text encoding="base64">ICAgIG1lY2FiID0gTWVDYWIuVGFnZ2VyKCItT3dha2F0aSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxlbihuYW1lcykpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBjYXJkIGluIGNhcmRfZGljdDoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1vZGVsID0gCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1vZGVsID0gZ2VuZXJhdGVfZG9jMnZlY19tb2RlbChUQVJHRVRfR0FNRV9OQU1FKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAjIOOBk+OBk+OBi+OCieWNmOiqnuWQjOWjq+OBrumhnuS8vOW6pgojIHdvcmQgPSB1J+atpuWZqCcgICMg6aGe5Ly85Y2Y6Kqe44KS5rGC44KB44Gf44GE5Y2Y6KqeCiMgcHJpbnQod29yZCArICcgaXMgc2ltaWxhciB0by4uLicpCiMgIyDpoZ7kvLzljZjoqp7jgajpoZ7kvLzluqbjga7jgr/jg5fjg6vvvIjpoZ7kvLzluqbkuIrkvY0xMOS7tu+8ieOBruODquOCueODiOOCkuWPl+OBkeWPluOCiwojIGZvciBzaW1pbGFyaXR5IGluIG1vZGVsLm1vc3Rfc2ltaWxhcihwb3NpdGl2ZT13b3JkKToKIyAgICAgIyDjgr/jg5fjg6vjga7jgb7jgb5JUHl0aG9u44Gr5Ye65Yqb44GZ44KL44Go44Oq44OG44Op44Or6KGo56S644GV44KM44Gq44GE44Gu44Gn44GT44Gu5pu444GN5pa5CiMgICAgIHByaW50KHNpbWlsYXJpdHlbMF0sIHNpbWlsYXJpdHlbMV0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAjIOOBk+OBk+OBi+OCieWNmOiqnuWQjOWjq+OBrumhnuS8vOW6pgojIHdvcmQgPSB1J+atpuWZqCcgICMg6aGe5Ly85Y2Y6Kqe44KS5rGC44KB44Gf44GE5Y2Y6KqeCiMgcHJpbnQod29yZCArICcgaXMgc2ltaWxhciB0by4uLicpCiMgIyDpoZ7kvLzljZjoqp7jgajpoZ7kvLzluqbjga7jgr/jg5fjg6vvvIjpoZ7kvLzluqbkuIrkvY0xMOS7tu+8ieOBruODquOCueODiOOCkuWPl+OBkeWPluOCiwojIGZvciBzaW1pbGFyaXR5IGluIG1vZGVsLm1vc3Rfc2ltaWxhcihwb3NpdGl2ZT13b3JkKToKIyAgICAgIyDjgr/jg5fjg6vjga7jgb7jgb5JUHl0aG9u44Gr5Ye65Yqb44GZ44KL44Go44Oq44OG44Op44Or6KGo56S644GV44KM44Gq44GE44Gu44Gn44GT44Gu5pu444GN5pa5CiMgICAgIHByaW50KHNpbWlsYXJpdHlbMF0sIHNpbWlsYXJpdHlbMV0pCg==</text>
+        <text encoding="base64">aWYgb3MucGF0aC5pc2ZpbGUoVEFSR0VUX0dBTUVfTkFNRSArICIudHh0IikgaXMgRmFsc2U6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>card_text.txt&quot;, &quot;w&quot;) as file:</text>
+        <text>hearth_stone</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
