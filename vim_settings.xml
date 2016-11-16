@@ -21,11 +21,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479267757250">
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479273464472">
         <mark key="'" line="49" column="6" />
         <mark key="[" line="35" column="54" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="/fragment.py" timestamp="1478672320418">
         <mark key="[" line="0" column="0" />
