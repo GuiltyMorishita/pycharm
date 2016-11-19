@@ -21,12 +21,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479370669229">
-        <mark key="'" line="71" column="6" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1479545486389">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="8" />
+        <mark key="." line="73" column="8" />
       </file>
       <file name="/fragment.py" timestamp="1479283683667">
         <mark key="[" line="0" column="0" />
@@ -125,37 +124,38 @@
       <jump line="31" column="0" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
       <jump line="35" column="2" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
       <jump line="37" column="6" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgbW9kZWwgPSBkb2MydmVjLkRvYzJWZWMoY2FyZF90ZXh0LCBzaXplPTEwMCwgd2luZG93PTksIG1pbl9jb3VudD0xLCB3b3JrZXJzPTQsIGl0ZXI9MTAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmFtZXMuaW5kZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bmFtZXMuaW5kZXgoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lY2FiID0gTWVDYWIuVGFnZ2VyKCItT3dha2F0aSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lY2FiID0gTWVDYWIuVGFnZ2VyKCItT3dha2F0aSIpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gZ2VuZXJhdGVfZG9jMnZlY19tb2RlbChUQVJHRVRfR0FNRV9OQU1FKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gZ2VuZXJhdGVfZG9jMnZlY19tb2RlbChUQVJHRVRfR0FNRV9OQU1FKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgb3MucGF0aC5pc2ZpbGUoVEFSR0VUX0dBTUVfTkFNRSArICIudHh0IikgaXMgRmFsc2U6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICMgICAgICAgICAgICAgICAgICAgICAgICAg</text>
