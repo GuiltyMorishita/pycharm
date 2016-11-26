@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1480172816867">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -13,7 +16,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1480049704355">
+      <file name="/Python Console" timestamp="1480174770691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
@@ -57,6 +60,12 @@
         <mark key="]" line="19" column="17" />
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480174822208">
+        <mark key="[" line="22" column="52" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
         <mark key="[" line="2" column="28" />
@@ -135,31 +144,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmFtZXMuaW5kZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMg44GT44KM44Gg44GR44Gn44CBVHdpdHRlciBBUEnjgpJQeXRob27jgYvjgonmk43kvZzjgZnjgovjgZ/jgoHjga7mupblgpnjga/lrozkuobjgIIKICAgICMgZm9yIHR3ZWV0IGluIGFwaS5ob21lX3RpbWVsaW5lKGNvdW50PTUsIGluY2x1ZGVfcnRzPUZhbHNlKToKICAgICMgICAgICMgcHJpbnQodHdlZXQucmV0d2VldHMpCiAgICAjICAgICBwcmludCh0d2VldC50ZXh0KQogICAgIyAgICAgcHJpbnQodHdlZXQucmV0d2VldGVkKQogICAgIyAgICAgaWYgdHdlZXQudXNlci5zY3JlZW5fbmFtZSBpbiB0YXJnZXRfc2NyZWVuX25hbWVzIGFuZCB0d2VldC5yZXR3ZWV0ZWQgaXMgRmFsc2U6CiAgICAjICAgICAgICAgYXBpLnJldHdlZXQodHdlZXQuaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lY2FiID0gTWVDYWIuVGFnZ2VyKCItT3dha2F0aSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHR3ZWV0LnJldHdlZXRlZCBpcyBGYWxzZSBhbmQgdSLjgJDlrprmnJ/jgJEiIG5vdCBpbiB0d2VldC50ZXh0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcGkucmV0d2VldCh0d2VldC5pZCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gCg==</text>
+        <text encoding="base64">bmFtZXMuaW5kZXgoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gZ2VuZXJhdGVfZG9jMnZlY19tb2RlbChUQVJHRVRfR0FNRV9OQU1FKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1lY2FiID0gTWVDYWIuVGFnZ2VyKCItT3dha2F0aSIpCg==</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>list_timeline</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
