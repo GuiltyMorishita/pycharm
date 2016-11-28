@@ -29,7 +29,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480322020559">
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480322898846">
         <mark key="[" line="85" column="51" />
         <mark key="]" line="109" column="59" />
         <mark key="^" line="109" column="59" />
@@ -59,6 +59,7 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/requirements.txt" timestamp="1480322881725" />
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1479281899574">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="17" />
