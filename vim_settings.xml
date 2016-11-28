@@ -16,7 +16,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1480180303413">
+      <file name="/Python Console" timestamp="1480295881790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
@@ -61,11 +61,10 @@
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480180325965">
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480295927360">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
         <mark key="[" line="2" column="28" />
@@ -141,31 +140,31 @@
         <text encoding="base64">ICAgICMgbW9kZWwgPSBkb2MydmVjLkRvYzJWZWMoY2FyZF90ZXh0LCBzaXplPTEwMCwgd2luZG93PTksIG1pbl9jb3VudD0xLCB3b3JrZXJzPTQsIGl0ZXI9MTAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnZV9jb3VudCArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdG9kYXkgPT0gdHdlZXQuY3JlYXRlZF9hdDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIDEwKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZV9jb3VudCArPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsIDEwKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNpbmNlLnN0cmZ0aW1lKCIlWS8lbS8lZCIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KHF1ZXJ5KQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNpbmNlLnN0cmZ0aW1lKCIlWS8lbS8lZCIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleXdvcmRzID0gWyIj44GG44Gh44Gu44GT44GL44KP44GE44GEIiwgIiPjg4njg7zjg6vjgpLjgYrov47jgYjjgZfjgZ/jgY/jgarjgovjgojjgYbjgarnlLvlg4/jgY/jgaDjgZXjgYQiXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHF1ZXJ5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVudGlsX2RhdGUgPSBkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJVktJW0tJWQiKQo=</text>
+        <text encoding="base64">ICAgIGtleXdvcmRzID0gWyIj44GG44Gh44Gu44GT44GL44KP44GE44GEIiwgIiPjg4njg7zjg6vjgpLjgYrov47jgYjjgZfjgZ/jgY/jgarjgovjgojjgYbjgarnlLvlg4/jgY/jgaDjgZXjgYQiXQo=</text>
       </register>
       <register name="-" type="4">
         <text>j</text>
