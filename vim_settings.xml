@@ -6,11 +6,6 @@
       <file name="/start_script.py" timestamp="1480172816867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478589863931">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="2" column="0" />
@@ -19,26 +14,8 @@
       <file name="/Python Console" timestamp="1480303788991">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1480049995086">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-      </file>
       <file name="/fragment.py" timestamp="1480303457767">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1479279644480">
         <mark key="[" line="0" column="0" />
@@ -49,48 +26,17 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/settings.py" timestamp="1478503050501">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/dollface_train.py" timestamp="1479351983991">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480303703320">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/items.py" timestamp="1479173977290">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="9" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480304434076">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="30" />
+        <mark key="^" line="55" column="30" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="20" column="57" />
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="57" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/.gitignore" timestamp="1479200086143">
         <mark key="[" line="3" column="0" />
@@ -110,16 +56,71 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1479281899574">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1480049995086">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/settings.py" timestamp="1478503050501">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/dollface_train.py" timestamp="1479351983991">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/items.py" timestamp="1479173977290">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479198871653">
         <mark key="[" line="29" column="17" />
