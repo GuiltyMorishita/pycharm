@@ -29,11 +29,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480316175867">
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="17" />
-        <mark key="." line="47" column="17" />
-        <mark key="^" line="47" column="17" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480317345451">
+        <mark key="[" line="78" column="18" />
+        <mark key="]" line="78" column="57" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="56" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
@@ -141,40 +141,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#オビツ50ヘッド協同組合</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcG9zdC5jb250ZW50ID0gY29udGVudAo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdF90d2VldHMxID0gc2VhcmNoX3R3aXR0ZXIoZ2V0X3F1ZXJ5KGtleXdvcmRzMSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDlkITnqK7jgq3jg7zjgpLjgrvjg4Pjg4gKQ09OU1VNRVJfS0VZID0gJzdtOWpnVXFCUHlmNFFZYW00NDNsdFhiSE0nCkNPTlNVTUVSX1NFQ1JFVCA9ICdrWGNLeU1nbUxTZmo0R3o0WEF4OVUyVGczaVNQR0w2anpIUXBpSUJhN0paeHFrWW1PMycKQUNDRVNTX1RPS0VOID0gJzM3OTI2NjQ5NDYtZllwc3hpWlZXZlk4S1RaSXM3Vzd1U2llTk5VWlRRSmRQTE01VGV0JwpBQ0NFU1NfU0VDUkVUID0gJ2FtN1B6T0t1VEJvcElsOEx0WHpuVldhMWw5bEsySGowTXdrNmpEaFVJVHdmRScKIyBUd2VlcHnjga7oqo3oqLwKYXV0aCA9IHR3ZWVweS5PQXV0aEhhbmRsZXIoQ09OU1VNRVJfS0VZLCBDT05TVU1FUl9TRUNSRVQpCmF1dGguc2V0X2FjY2Vzc190b2tlbihBQ0NFU1NfVE9LRU4sIEFDQ0VTU19TRUNSRVQpCmFwaSA9IHR3ZWVweS5BUEkoYXV0aCkKIyDln4vjgoHovrzjgb/jgrPjg7zjg4nnlKjjga5Ud2l0dGVyIEFQSeOBruiqjeiovAp0ID0gVHdpdHRlcihhdXRoPU9BdXRoKEFDQ0VTU19UT0tFTiwgQUNDRVNTX1NFQ1JFVCwgQ09OU1VNRVJfS0VZLCBDT05TVU1FUl9TRUNSRVQpKQojIFdQIEFQSeOBruiqjeiovAp3cCA9IENsaWVudCgnaHR0cDovL2RvbGxzb2t1LmNvbS94bWxycGMucGhwJywgJ2N1cmF0aW9uX2JvdCcsICdnWFJkaWRzTiQkOF5OemJ4UyZnek4qSFUnKQoK</text>
+        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBidWlsZF9jb250ZW50KHJlc3VsdF9kaWN0KToKICAgICAgICBjb250ZW50ID0gJ1tzcGVlY2hfYnViYmxlIHR5cGU9InBpbmsiIHN1YnR5cGU9IkwxIiBpY29uPSJhaWthX2ljb25fc21pbGVfTDIucG5nIiBuYW1lPSLjgYLjgYTjgYsiXScgXAogICAgICAgICAgICAgICAgICAnIDExLzIx44CcMTEvMjfjgb7jgafjga5Ud2l0dGVy44Gn44Gu5Y6z6YG444OJ44O844Or55S75YOP44KS6ZuG44KB44G+44GX44Gf77yBIFsvc3BlZWNoX2J1YmJsZV1cbicKICAgICAgICBwcmludCgi5Z+L44KB6L6844G/44Kz44O844OJ5L2c5oiQIikKICAgICAgICBmb3IgaSwgdHdlZXQgaW4gZW51bWVyYXRlKHJlc3VsdF9kaWN0LnZhbHVlcygpKToKICAgICAgICAgICAgaWYgaSA+PSA1MDoKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIG9lbWJlZF90d2VldCA9IHQuc3RhdHVzZXMub2VtYmVkKF9pZD10d2VldC5pZF9zdHIpCiAgICAgICAgICAgIGNvbnRlbnQgKz0gb2VtYmVkX3R3ZWV0WyJodG1sIl0gKyAiXG4iCiAgICAgICAgcHJpbnQoIuWfi+OCgei+vOOBv+OCs+ODvOODieS9nOaIkOWujOS6hiIpCgogICAgICAgIGNvbnRlbnQgKz0gJ1tzcGVlY2hfYnViYmxlIHR5cGU9InBpbmsiIHN1YnR5cGU9IlIxIiBpY29uPSJhaWthX2ljb25fc21pbGVfUjIucG5nIiBuYW1lPSLjgYLjgYTjgYsiXScgXAogICAgICAgICAgICAgICAgICAgJyDntKDmlbXjgarlhpnnnJ/jgbDjgYvjgorjgafjgZnjga3imaogWy9zcGVlY2hfYnViYmxlXVxuXG4nCiAgICAgICAgcmV0dXJuIGNvbnRlbnQK</text>
+        <text encoding="base64">ICAgICMgVHdpdHRlcuOBruOCq+ODhuOCtOODquaDheWgseOCkuWPluW+lwogICAgY2F0ZWdvcnkgPSB3cC5jYWxsKHRheG9ub21pZXMuR2V0VGVybSgnY2F0ZWdvcnknLCAxNikpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBjb250ZW50</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc3QuY29udGVudCA9ICLjgbvjgZIiCg==</text>
+        <text encoding="base64">ICAgICMgVHdpdHRlcuOBruOCq+ODhuOCtOODquaDheWgseOCkuWPluW+lwogICAgY2F0ZWdvcnkgPSB3cC5jYWxsKHRheG9ub21pZXMuR2V0VGVybSgnY2F0ZWdvcnknLCAxNikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gd3AuY2FsbCh0YXhvbm9taWVzLkdldFRlcm0oJ2NhdGVnb3J5JywgMTYpKQo=</text>
+        <text encoding="base64">ICAgICMg5LuK5pel44Gu5pel5LuY44Go5pio5pel44Gu5pel5LuY44KS5Y+W5b6XCiAgICB0b2RheSA9IGRhdGUudG9kYXkoKQogICAgeWVzdGVyZGF5ID0gZGF0ZS50b2RheSgpIC0gdGltZWRlbHRhKGRheXM9MSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHdvcmRwcmVzc194bWxycGMK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfcXVlcnkoa2V5d29yZHMpOgogICAgICAgIGV4Y2VwdF9rZXl3b3JkcyA9IFsi5pei5Ye6IiwgIumBjuWOuyIsICIj54yrIiwgIiPjgqrjg6rjgq3jg6Pjg6kiLCAiI+e1teaPj+OBjeOBleOCk+OBqOe5i+OBjOOCiuOBn+OBhCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICIj54yr5aW944GN44GV44KT44Go57mL44GM44KK44Gf44GEIiwgIiPjgqbjgrXjgq4iLCAiI+ODjeOCs+eUu+WDjyIsICJTTk9XIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIiPntbXluKvjgZXjgpPjgajnuYvjgYzjgorjgZ/jgYQiXQogICAgICAgIHF1ZXJ5ID0gIiBPUiAiLmpvaW4oa2V5d29yZHMxKSArICIgLSIgKyAiIC0iLmpvaW4oZXhjZXB0X2tleXdvcmRzKSArIFwKICAgICAgICAgICAgICAgICIgc2luY2U6JXMgdW50aWw6JXMiICUgKHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgcmV0dXJuIHF1ZXJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gd3AuY2FsbCh3cC50YXhvbm9taWVzLkdldFRlcm0oJ2NhdGVnb3J5JywgMykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaSA9IHR3ZWVweS5BUEkoYXV0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQVBJ44Kk44Oz44K544K/44Oz44K544KS5L2c5oiQCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCLmpJzntKLlrozkuoYiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>

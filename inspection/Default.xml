@@ -15,6 +15,7 @@
       <list>
         <option value="dict.id_str" />
         <option value="wordpress_xmlrpc.taxonomies" />
+        <option value="wordpress_xmlrpc.wordpress.WordPressPost.terms" />
       </list>
     </option>
   </inspection_tool>
