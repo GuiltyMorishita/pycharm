@@ -11,10 +11,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1480318068155">
+      <file name="/Python Console" timestamp="1480321910212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1480318074780">
+      <file name="/fragment.py" timestamp="1480321913054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -29,11 +29,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480319225150">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480322020559">
+        <mark key="[" line="85" column="51" />
+        <mark key="]" line="109" column="59" />
+        <mark key="^" line="109" column="59" />
+        <mark key="." line="109" column="59" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
@@ -141,7 +141,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
