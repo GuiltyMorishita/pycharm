@@ -29,7 +29,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480322898846">
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480327498101">
         <mark key="[" line="85" column="51" />
         <mark key="]" line="109" column="59" />
         <mark key="^" line="109" column="59" />
@@ -40,6 +40,12 @@
         <mark key="]" line="20" column="57" />
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="57" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/runtime.txt" timestamp="1480327532490">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/.gitignore" timestamp="1479200086143">
         <mark key="[" line="3" column="0" />
