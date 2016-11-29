@@ -29,11 +29,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480327498101">
-        <mark key="[" line="85" column="51" />
-        <mark key="]" line="109" column="59" />
-        <mark key="^" line="109" column="59" />
-        <mark key="." line="109" column="59" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480393615477">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="114" column="16" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
@@ -148,19 +148,19 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>time</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF90d2VldHMxID0gc2VhcmNoX3R3aXR0ZXIoZ2V0X3F1ZXJ5KGtleXdvcmRzMSkpCg==</text>
+        <text encoding="base64">ICAgIHdwLmNhbGwoTmV3UG9zdChwb3N0KSkKICAgIHByaW50KCLmipXnqL/lrozkuoYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gd3AuY2FsbCh0YXhvbm9taWVzLkdldFRlcm0oJ2NhdGVnb3J5JywgMTYpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgVHdpdHRlcuOBruOCq+ODhuOCtOODquaDheWgseOCkuWPluW+lwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCLmipXnqL/lrozkuoYiKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -168,20 +168,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcmVzdWx0X3R3ZWV0czIgPSBzZWFyY2hfdHdpdHRlcihnZXRfcXVlcnkoa2V5d29yZHMyLCBleHBlY3Q9IiPjgYbjgaHjga7jgZPjgYvjgo/jgYTjgYQiKSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHBvc3QucG9zdF9zdGF0dXMgPSAncHVibGlzaCcKICAgIHdwLmNhbGwoRWRpdFBvc3QocG9zdC5pZCwgcG9zdCkp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleXdvcmRzMiA9IFsiI+a3seWknOOBruODieODvOODq+aSruW9sTYw5YiG5LiA5pys5Yud6LKgIiwgIiPjg5fjg7zjg6rjg4Pjg5ciLCAi44Kk44K544Or5biD5pWZ5aeU5ZOh5LyaIiwKICAgICAgICAgICAgICAgICAiI+OCquODk+ODhDUw44OY44OD44OJ5Y2U5ZCM57WE5ZCIIl0K</text>
+        <text encoding="base64">ICAgIHBvc3QuaWQgPSB3cC5jYWxsKE5ld1Bvc3QocG9zdCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">CiAgICBwb3N0LnBvc3Rfc3RhdHVzID0gJ3B1Ymxpc2gnCiAgICB3cC5jYWxsKEVkaXRQb3N0KHBvc3QuaWQsIHBvc3QpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRvZGF5ID0gZGF0ZS50b2RheSgpCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVHdpdHRlcuOBruOCq+ODhuOCtOODquaDheWgseOCkuWPluW+lwogICAgY2F0ZWdvcnkgPSB3cC5jYWxsKHRheG9ub21pZXMuR2V0VGVybSgnY2F0ZWdvcnknLCAxNikpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgcG9zdC5pZCA9IHdwLmNhbGwoTmV3UG9zdChwb3N0KSkKCiAgICBwb3N0LnBvc3Rfc3RhdHVzID0gJ3B1Ymxpc2gnCiAgICB3cC5jYWxsKEVkaXRQb3N0KHBvc3QuaWQsIHBvc3QpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
