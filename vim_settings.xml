@@ -20,7 +20,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1480315108599">
+      <file name="/a.dummy" timestamp="1480489580733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
@@ -34,6 +34,11 @@
         <mark key="]" line="69" column="28" />
         <mark key="^" line="69" column="28" />
         <mark key="." line="69" column="28" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearthstone.py" timestamp="1480490541410">
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
@@ -59,14 +64,14 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/items.py" timestamp="1479279923497">
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/items.py" timestamp="1480489013584">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="9" column="6" />
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1479281899574">
-        <mark key="[" line="22" column="23" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1480489562218">
+        <mark key="[" line="6" column="23" />
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
@@ -81,12 +86,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1480049995086">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="8" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1480489105258">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="66" column="27" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
         <mark key="[" line="29" column="17" />
@@ -147,40 +151,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>うちのこかわいいまとめ</text>
+        <text>yugioh</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdwLmNhbGwoTmV3UG9zdChwb3N0KSkKICAgIHByaW50KCLmipXnqL/lrozkuoYiKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IGdlbmVyYXRlX2RvYzJ2ZWNfbW9kZWwoVEFSR0VUX0dBTUVfTkFNRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQgICAgbW9kZWwgPSBnZW5lcmF0ZV9kb2MydmVjX21vZGVsKFRBUkdFVF9HQU1FX05BTUUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCLmipXnqL/lrozkuoYiKQo=</text>
+        <text encoding="base64">ICAgICMgbW9kZWwgPSBkb2MydmVjLkRvYzJWZWMoY2FyZF90ZXh0LCBzaXplPTMwMCwgd2luZG93PTEyLCBtaW5fY291bnQ9MSwKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgd29ya2Vycz00LCBzYW1wbGU9MC4wMDAwMSwgbmVnYXRpdmU9NSwgaXRlcj00MDApCiAgICAjIG1vZGVsID0gZG9jMnZlYy5Eb2MyVmVjKGNhcmRfdGV4dCwgc2l6ZT0xMDAsIHdpbmRvdz05LCBtaW5fY291bnQ9MSwKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgd29ya2Vycz00LCBpdGVyPTEwMCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCLmipXnqL/lrozkuoYiKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHBvc3QucG9zdF9zdGF0dXMgPSAncHVibGlzaCcKICAgIHdwLmNhbGwoRWRpdFBvc3QocG9zdC5pZCwgcG9zdCkp</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBvc3QuaWQgPSB3cC5jYWxsKE5ld1Bvc3QocG9zdCkpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CiAgICBwb3N0LnBvc3Rfc3RhdHVzID0gJ3B1Ymxpc2gnCiAgICB3cC5jYWxsKEVkaXRQb3N0KHBvc3QuaWQsIHBvc3QpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgcG9zdC5pZCA9IHdwLmNhbGwoTmV3UG9zdChwb3N0KSkKCiAgICBwb3N0LnBvc3Rfc3RhdHVzID0gJ3B1Ymxpc2gnCiAgICB3cC5jYWxsKEVkaXRQb3N0KHBvc3QuaWQsIHBvc3QpKQ==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
