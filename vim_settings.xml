@@ -29,11 +29,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480393615477">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="114" column="16" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480481300605">
+        <mark key="[" line="89" column="18" />
+        <mark key="]" line="69" column="28" />
+        <mark key="^" line="69" column="28" />
+        <mark key="." line="69" column="28" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
@@ -65,7 +65,6 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/requirements.txt" timestamp="1480322881725" />
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1479281899574">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="17" />
@@ -148,7 +147,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>うちのこかわいいまとめ</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
