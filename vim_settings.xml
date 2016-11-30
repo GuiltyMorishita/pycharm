@@ -25,7 +25,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/a.dummy" timestamp="1480489580733">
+      <file name="/a.dummy" timestamp="1480529198267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
@@ -44,11 +44,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="554" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480526639063">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="28" column="22" />
+      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480530095235">
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearthstone.py" timestamp="1480494483540">
         <mark key="]" line="6" column="17" />
@@ -90,6 +89,11 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/setup.py" timestamp="1480528356018">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -101,6 +105,12 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/hoge.py" timestamp="1480518930822" />
+      <file name="$USER_HOME$/Ebios/Python/meme/reciever.pyx" timestamp="1480528986692">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="27" column="26" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="26" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" timestamp="1480501976194">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="62" column="24" />
@@ -171,7 +181,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>:</text>
+        <text>）</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -180,31 +190,31 @@
         <text>&quot;EOG_L1&quot;, &quot;EOG_R1&quot;, &quot;EOG_H1&quot;, &quot;EOG_V1&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGYuaXhbMF0ucGxvdChraW5kPSdiYXInLCB5bGltPSgtMTIwMCwgMTIwMCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3BsaXRlZF9saW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4oZGF0YS5zcGxpdCgnXG4nKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHlsaW0oLTUwMDAsIDUwMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHkgPSB6ZXJvcyg4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGFzLCBpbmRleD1sYWJlbHMpLlQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHggPSBhcmFuZ2UoMSwgOSkK</text>
+        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZywgYXggPSBzdWJwbG90cygxLCAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlY3RzID0gYXguYmFyKHgsIHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
