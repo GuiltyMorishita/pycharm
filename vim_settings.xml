@@ -44,10 +44,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="554" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480525740390">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480526639063">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearthstone.py" timestamp="1480494483540">
         <mark key="]" line="6" column="17" />
@@ -170,7 +171,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
