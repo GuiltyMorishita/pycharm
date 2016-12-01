@@ -34,11 +34,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480481300605">
-        <mark key="[" line="89" column="18" />
-        <mark key="]" line="69" column="28" />
-        <mark key="^" line="69" column="28" />
-        <mark key="." line="69" column="28" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480585775261">
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="16" column="62" />
+        <mark key="^" line="16" column="62" />
+        <mark key="." line="16" column="62" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone.json" timestamp="1480494968763">
         <mark key="[" line="0" column="0" />
@@ -187,7 +187,7 @@
         <text>）</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDwiXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;EOG_L1&quot;, &quot;EOG_R1&quot;, &quot;EOG_H1&quot;, &quot;EOG_V1&quot;</text>
@@ -224,15 +224,16 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDwiXD4=</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>print</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseContent</entry>
