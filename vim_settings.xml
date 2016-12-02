@@ -16,10 +16,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1480603989087">
+      <file name="/Python Console" timestamp="1480666988583">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1480586451175">
+      <file name="/fragment.py" timestamp="1480666871627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -44,12 +44,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="554" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480663229598">
-        <mark key="'" line="23" column="36" />
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480667434728">
+        <mark key="'" line="30" column="10" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearthstone.py" timestamp="1480494483540">
         <mark key="]" line="6" column="17" />
@@ -105,7 +105,7 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1480603712384">
+      <file name="/code.py" timestamp="1480667566138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
@@ -201,6 +201,8 @@
       <jump line="37" column="6" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
       <jump line="53" column="0" filename="$USER_HOME$/Ebios/Python/doc2vec/card2vec.py" />
       <jump line="20" column="36" filename="$USER_HOME$/Ebios/Python/meme/reciever.py" />
+      <jump line="27" column="10" filename="$USER_HOME$/Ebios/Python/meme/reciever.py" />
+      <jump line="30" column="10" filename="$USER_HOME$/Ebios/Python/meme/reciever.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -213,28 +215,28 @@
         <text>&quot;GYRO_X&quot;, &quot;GYRO_Y&quot;, &quot;GYRO_Z&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHRfa2V5d29yZHMuYXBwZW5kKGt3KQo=</text>
+        <text encoding="base64">c25zLnNldF9zdHlsZSgnd2hpdGVncmlkJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZGYuaXhbMF0ucGxvdChraW5kPSdiYXInLCB5bGltPSgtMTIwMCwgMTIwMCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bWJhIGFzIG5iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">QG5iLmppdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4oZGF0YS5zcGxpdCgnXG4nKSkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5cXRncmFwaCBhcyBwZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bWJhIGFzIG5iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gcGQuRGF0YUZyYW1lKGRhdGFzLCBpbmRleD1sYWJlbHMpLlQK</text>
+        <text encoding="base64">QG5iLmppdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
