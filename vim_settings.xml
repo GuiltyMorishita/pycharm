@@ -109,6 +109,9 @@
       <file name="/code.py" timestamp="1480667566138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" timestamp="1480752602510">
+        <mark key="'" line="241" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -161,10 +164,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/LINE_BOT/becon.py" timestamp="1480751797215">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/Ebios/Python/LINE_BOT/becon.py" timestamp="1480752464003">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
         <mark key="[" line="6" column="4" />
@@ -208,6 +212,42 @@
       <jump line="27" column="10" filename="$USER_HOME$/Ebios/Python/meme/reciever.py" />
       <jump line="30" column="10" filename="$USER_HOME$/Ebios/Python/meme/reciever.py" />
       <jump line="59" column="9" filename="$USER_HOME$/Ebios/Python/LINE_BOT/requirements.txt" />
+      <jump line="97" column="8" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="147" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="151" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="153" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="179" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="182" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="185" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="194" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="200" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="207" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="210" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="222" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="228" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="232" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="234" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="237" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -216,8 +256,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;GYRO_X&quot;, &quot;GYRO_Y&quot;, &quot;GYRO_Z&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGhhbmRsZXIuYWRkKE1lc3NhZ2VFdmVudCwgbWVzc2FnZT1UZXh0TWVzc2FnZSkKZGVmIGhhbmRsZV9tZXNzYWdlKGV2ZW50KToKICAgIGxpbmVfYm90X2FwaS5yZXBseV9tZXNzYWdlKAogICAgICAgIGV2ZW50LnJlcGx5X3Rva2VuLAogICAgICAgIFRleHRTZW5kTWVzc2FnZSh0ZXh0PWV2ZW50Lm1lc3NhZ2UudGV4dCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Z3VuaWNvcm4K</text>
