@@ -51,11 +51,6 @@
         <mark key="." line="28" column="38" />
         <mark key="^" line="28" column="38" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearthstone.py" timestamp="1480494483540">
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="20" column="57" />
@@ -166,6 +161,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/LINE_BOT/becon.py" timestamp="1480746974160">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="15" column="10" />
@@ -210,7 +210,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>char</text>
+        <text>YOUR_CHANNEL_ACCESS_TOKEN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwiXD4=</text>
