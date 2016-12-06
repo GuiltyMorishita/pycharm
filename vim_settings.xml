@@ -27,6 +27,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" timestamp="1481014440316">
+        <mark key="'" line="23" column="6892" />
+        <mark key="[" line="0" column="13429" />
+        <mark key="]" line="0" column="13428" />
+        <mark key="^" line="0" column="13428" />
+        <mark key="." line="0" column="13428" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/runtime.txt" timestamp="1480327532490">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -61,19 +68,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481008044038">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481019411952">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481012524745">
-        <mark key="[" line="69" column="43" />
-        <mark key="]" line="67" column="10" />
-        <mark key="." line="67" column="10" />
-        <mark key="^" line="67" column="10" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481019649914">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/client.py" timestamp="1480513127592">
         <mark key="[" line="9" column="0" />
@@ -89,7 +96,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1481012924439">
+      <file name="/Python Console" timestamp="1481019529600">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1481012701399">
@@ -311,59 +318,84 @@
       <jump line="27" column="4" filename="$USER_HOME$/Ebios/Python/meme/logger.py" />
       <jump line="3" column="31" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_00 - Vehicle Data_01.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_00 - Vehicle Data_01.xml" />
+      <jump line="0" column="56950" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="1" column="4162" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="2" column="8346" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="3" column="44479" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="4" column="51997" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="5" column="9793" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="6" column="12472" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="7" column="14969" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="8" column="12187" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="9" column="15573" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="10" column="24107" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="11" column="24643" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="12" column="17924" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="13" column="12705" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="14" column="26075" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="15" column="64549" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="16" column="39448" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="17" column="33773" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="18" column="35364" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="19" column="77375" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="20" column="35107" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="21" column="15302" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="22" column="2503" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
+      <jump line="23" column="6892" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwiXD4=</text>
+        <text>\n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGpzb24KaW1wb3J0IE1lQ2FiCmZyb20gZ2Vuc2ltLm1vZGVscyBpbXBvcnQgZG9jMnZlYwppbXBvcnQgb3MKaW1wb3J0IHJhbmRvbQoKCmRlZiBsb2FkX2pzb24odGFyZ2V0X2dhbWVfbmFtZSk6CiAgICAjIOOCq+ODvOODieWQjeOBqOOCq+ODvOODieODhuOCreOCueODiOOBruWFpeWKm+ODh+ODvOOCv+S9nOaIkAogICAgbmFtZXMgPSBbXQogICAgdGV4dCA9ICIiCiAgICB0ZXh0cyA9IFtdCgogICAgIyBNZWNhYuOBruWHuuWKm+OCkuWIhuOBi+OBoeabuOOBjeOBq+aMh+WumgogICAgbWVjYWIgPSBNZUNhYi5UYWdnZXIoIi1Pd2FrYXRpIikKCiAgICBqc29uX3BhdGggPSB0YXJnZXRfZ2FtZV9uYW1lICsgIi8iICsgdGFyZ2V0X2dhbWVfbmFtZSArICIuanNvbiIKICAgICMg44Kr44O844OJ44Gu44OG44Kt44K544OI44KS5b2i5oWL57Sg6Kej5p6Q44GX44CB5YiG44GL44Gh5pu444GN44GX44Gf44KC44Gu44KS5pS56KGM5Yy65YiH44KK44Gn5LiA44Gk44Guc3RyaW5n44Gr44GZ44KLCiAgICB3aXRoIG9wZW4oanNvbl9wYXRoLCAiciIpIGFzIGZpbGU6CiAgICAgICAgY2FyZF9kaWN0ID0ganNvbi5sb2FkKGZpbGUpCiAgICAgICAgZm9yIGNhcmQgaW4gY2FyZF9kaWN0OgogICAgICAgICAgICBpZiBjYXJkWyJuYW1lIl0gbm90IGluIG5hbWVzOgogICAgICAgICAgICAgICAgbmFtZXMuYXBwZW5kKGNhcmRbIm5hbWUiXSkKICAgICAgICAgICAgICAgIG1lY2FiX3Jlc3VsdCA9IG1lY2FiLnBhcnNlKGNhcmRbInRleHQiXSkKICAgICAgICAgICAgICAgIGlmIG1lY2FiX3Jlc3VsdCBpcyBGYWxzZToKICAgICAgICAgICAgICAgICAgICB0ZXh0ICs9ICJcbiIKICAgICAgICAgICAgICAgICAgICB0ZXh0cy5hcHBlbmQoIiIpCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHRleHQgKz0gbWVjYWJfcmVzdWx0CiAgICAgICAgICAgICAgICAgICAgdGV4dHMuYXBwZW5kKGNhcmRbInRleHQiXSkKCiAgICB3aXRoIG9wZW4odGFyZ2V0X2dhbWVfbmFtZSArICIudHh0IiwgInciKSBhcyBmaWxlOgogICAgICAgIGZpbGUud3JpdGUodGV4dCkKCiAgICByZXR1cm4gbmFtZXMsIHRleHRzCgoKZGVmIGdlbmVyYXRlX2RvYzJ2ZWNfbW9kZWwodGFyZ2V0X2dhbWVfbmFtZSk6CiAgICBwcmludCgiVHJhaW5pbmcgU3RhcnQiKQogICAgIyDjgqvjg7zjg4njg4bjgq3jgrnjg4joqq3jgb/ovrzjgb8KICAgIGNhcmRfdGV4dCA9IGRvYzJ2ZWMuVGFnZ2VkTGluZURvY3VtZW50KHRhcmdldF9nYW1lX25hbWUgKyAiLnR4dCIpCiAgICAjIOWtpue/kgogICAgbW9kZWwgPSBkb2MydmVjLkRvYzJWZWMoY2FyZF90ZXh0LCBzaXplPTMwMCwgd2luZG93PTgsIG1pbl9jb3VudD0xLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgd29ya2Vycz00LCBpdGVyPTQwMCwgZGJvd193b3Jkcz0xLCBuZWdhdGl2ZT01KQoKICAgICMg44Oi44OH44Or44Gu5L+d5a2YCiAgICBtb2RlbC5zYXZlKHRhcmdldF9nYW1lX25hbWUgKyAiLm1vZGVsIikKICAgIHByaW50KCJUcmFpbmluZyBGaW5pc2giKQogICAgcmV0dXJuIG1vZGVsCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIFRBUkdFVF9HQU1FX05BTUUgPSAiaGVhcnRoX3N0b25lIgogICAgbmFtZXMsIHRleHRzID0gbG9hZF9qc29uKFRBUkdFVF9HQU1FX05BTUUpCgogICAgaWYgb3MucGF0aC5pc2ZpbGUoVEFSR0VUX0dBTUVfTkFNRSArICIubW9kZWwiKSBpcyBUcnVlOgogICAgICAgIG1vZGVsID0gZG9jMnZlYy5Eb2MyVmVjLmxvYWQoVEFSR0VUX0dBTUVfTkFNRSArICIubW9kZWwiKQogICAgZWxzZToKICAgICAgICBtb2RlbCA9IGdlbmVyYXRlX2RvYzJ2ZWNfbW9kZWwoVEFSR0VUX0dBTUVfTkFNRSkKCiAgICAjIOmhnuS8vOOCq+ODvOODieOCkuaxguOCgeOBn+OBhOOCq+ODvOODieWQjQogICAgVEFSR0VUX0NBUkRfTkFNRSA9ICLjg63jg7zjg4njg7vjgrjjg6Pjg6njgq/jgrXjgrkiCiAgICAjIFRBUkdFVF9DQVJEX05BTUUgPSBuYW1lc1tyYW5kb20ucmFuZGludCgwLCBsZW4obmFtZXMpKV0KICAgIGNhcmRfaW5kZXggPSBuYW1lcy5pbmRleChUQVJHRVRfQ0FSRF9OQU1FKQoKICAgICMg6aGe5Ly844Kr44O844OJ44Go6aGe5Ly85bqm44Gu44K/44OX44Or77yI6aGe5Ly85bqm5LiK5L2NMTDku7bvvInjga7jg6rjgrnjg4jjgpLlj5fjgZHlj5bjgosKICAgIHNpbWlsYXJfZG9jcyA9IG1vZGVsLmRvY3ZlY3MubW9zdF9zaW1pbGFyKGNhcmRfaW5kZXgpCiAgICBwcmludChuYW1lc1tjYXJkX2luZGV4XSkKICAgIHByaW50KHRleHRzW2NhcmRfaW5kZXhdKQogICAgcHJpbnQoIi0tLS0tLS0tLS0tLS0tLS0tLS0taXMgc2ltaWxhciB0by0tLS0tLS0tLS0tLS0tLS0tLS0tXG4iKQogICAgZm9yIHNpbWlsYXJfZG9jIGluIHNpbWlsYXJfZG9jczoKICAgICAgICBwcmludChuYW1lc1tzaW1pbGFyX2RvY1swXV0gKyAiICIgKyBzdHIoc2ltaWxhcl9kb2NbMV0pKQogICAgICAgIHByaW50KHRleHRzW3NpbWlsYXJfZG9jWzBdXSwgIlxuIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXh0c1tzaW1pbGFyX2RvY1swXV0sICJcbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRzW2NhdGVnb3J5X2luZGV4XSkK</text>
+        <text encoding="base64">ICAgICMgICAgIGZpbGUud3JpdGUodGV4dCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICMgd2l0aCBvcGVuKHRhcmdldF9kYXRhICsgIi50eHQiLCAidyIpIGFzIGZpbGU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHRzID0gW10K</text>
+        <text encoding="base64">ICAgICMgVEFSR0VUX0NBUkRfTkFNRSA9IG5hbWVzW3JhbmRvbS5yYW5kaW50KDAsIGxlbihuYW1lcykpXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0cy5hcHBlbmQoc2VudGVuY2UpCg==</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5X2luZGV4ID0gdGFyZ2V0X2NhdGVnb3J5cy5pbmRleChUQVJHRVRfQ0FURUdPUlkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0cy5hcHBlbmQoIiIpCg==</text>
+        <text encoding="base64">Y2hyeXNsZXJfamEudHh0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRleHRzKQo=</text>
+        <text encoding="base64">Y2hyeXNsZXJfamEubW9kZWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMg44OG44Kt44K544OI6Kqt44G/6L6844G/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lcy5hcHBlbmQoY2FyZFsibmFtZSJdKQo=</text>
+        <text encoding="base64">ICAgIHRleHQgPSBkb2MydmVjLlRhZ2dlZExpbmVEb2N1bWVudCh0YXJnZXRfbmFtZSArICIudHh0IikK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwiXD4=</last-search>
+      <last-search>\n</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwiXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>\n</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>print</entry>
         <entry encoding="base64">XDwiXD4=</entry>
+        <entry>\n</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseContent</entry>
