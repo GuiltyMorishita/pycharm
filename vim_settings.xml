@@ -78,8 +78,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481108308124">
-        <mark key="[" line="4" column="3" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481195314152">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="3" />
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
@@ -87,10 +87,10 @@
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481179622052">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481195456157">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/client.py" timestamp="1480513127592">
         <mark key="[" line="9" column="0" />
@@ -111,7 +111,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1481191756343">
+      <file name="/Python Console" timestamp="1481195065724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1481190151842">
@@ -176,20 +176,20 @@
       <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/wikipedia/wikipedia.py" timestamp="1480755616821">
         <mark key="[" line="388" column="29" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481192311405">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="28" column="44" />
-        <mark key="." line="28" column="44" />
-        <mark key="^" line="28" column="44" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481194495237">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1481178906645">
+      <file name="/code.py" timestamp="1481193421034">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="15" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" timestamp="1480752602510">
         <mark key="'" line="241" column="0" />
@@ -398,31 +398,31 @@
         <text encoding="base64">ICAgIG1vcnBoZW1lcyA9IENvbHVtbihTdHJpbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQudGV4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCByZS5tYXRjaChyIkdvIFRvIiwgcHR4dCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2hpbGQudGV4dCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICMgWydCcmFrZXMsIEFCUycsICdCb2R5JywgJ0RpZmZlcmVudGlhbCBhbmQgRHJpdmVsaW5lJywgJ1ZlaGljbGUgUXVpY2sgUmVmZXJlbmNlJywgJ0VuZ2luZSwgNS43TCcsCiAgICAjICAnRFRDLUJhc2VkIERpYWdub3N0aWNzJywgJ0VsZWN0cmljYWwnLCAnVGlyZXMgYW5kIFdoZWVscycsICdWZWhpY2xlIERhdGEnLCAnTm9uLURUQyBEaWFnbm9zdGljcycsCiAgICAjICAnTW9wYXIgQWNjZXNzb3JpZXMnLCAnU3RlZXJpbmcnLCAnUmVzdHJhaW50cycsICdFbWlzc2lvbnMgQ29udHJvbCcsICdGcm9udCBTdXNwZW5zaW9uJywgJ0Z1ZWwgU3lzdGVtJywgJ0Nvb2xpbmcnLAogICAgIyAgJ1JlYXIgU3VzcGVuc2lvbicsICdIZWF0aW5nIGFuZCBBaXIgQ29uZGl0aW9uaW5nJywgJ1RyYW5zbWlzc2lvbiBhbmQgVHJhbnNmZXIgQ2FzZScsICdFbmdpbmUsIDMuNkwnLAogICAgIyAgJ0ZyYW1lIGFuZCBCdW1wZXJzJywgJ0V4aGF1c3QgU3lzdGVtJywgJ0JyYWtlcywgQmFzZSdd</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHR4dCkK</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdHh0ICs9IG5vZGUudGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICBzaW1pbGFyX2RvY19pZCA9IHNpbWlsYXJfZG9jWzBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vZGUudGV4dDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG5vZGUgaW4gY2hpbGQuaXRlcigpOgo=</text>
+        <text encoding="base64">ICAgIFRBUkdFVF9DQVRFR09SWSA9ICJCb2R5Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHR4dCA9ICIiCg==</text>
+        <text encoding="base64">ICAgIFRBUkdFVF9EQVRBID0gImNocnlzbGVyX2phIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzID0gc291cC5maW5kQWxsKCJwdHh0IikK</text>
+        <text encoding="base64">ICAgIHRhcmdldF9jYXRlZ29yeXMsIHRhcmdldF9kb2NzID0gbG9hZF9qc29uKFRBUkdFVF9EQVRBKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
