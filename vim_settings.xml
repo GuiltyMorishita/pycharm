@@ -106,16 +106,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1481019529600">
+      <file name="/Python Console" timestamp="1481178286184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1481012701399">
+      <file name="/fragment.py" timestamp="1481178703148">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2json.py" timestamp="1481089319503">
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2json.py" timestamp="1481176209298">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="104" />
@@ -171,10 +171,16 @@
       <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/wikipedia/wikipedia.py" timestamp="1480755616821">
         <mark key="[" line="388" column="29" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481178925699">
+        <mark key="[" line="18" column="82" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+      </file>
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1481108116060">
+      <file name="/code.py" timestamp="1481178906645">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="13" column="33" />
@@ -382,31 +388,31 @@
         <text encoding="base64">ICAgIGNhdGVnb3J5X2lkID0gQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoJ2NhdGVnb3JpZXMuaWQnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpcl9saXN0ID0gb3MubGlzdGRpcihkaXJfcGF0aCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNoaWxkLnN0cmlwKCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2F0ZWdvcnlfZGljdFtjYXRlZ29yeV0gPSBwdHh0X2xpbmVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGVuZ2luZSkK</text>
+        <text encoding="base64">Zm9yIGZpbGVfbmFtZSBpbiBvcy5saXN0ZGlyKEpBX0RJUik6CiAgICBjYXRlZ29yeSA9IHJlLnNlYXJjaChyJy0gKD9QPGNhdGVnb3J5Pi4rPylfJywgZmlsZV9uYW1lKS5ncm91cCgiY2F0ZWdvcnkiKQogICAgdHJlZSA9IHBhcnNlKEpBX0RJUiArIGZpbGVfbmFtZSkKCiAgICBqYV9wdHh0X2xpbmVzID0gW10KICAgIGZvciBjaGlsZCBpbiB0cmVlLmZpbmRhbGwoIi4vL3B0eHQiKToKICAgICAgICBpZiBjaGlsZC50ZXh0IGFuZCBub3QgY2hpbGQudGV4dC5pc2RpZ2l0KCk6CiAgICAgICAgICAgIGphX3B0eHRfbGluZXMuYXBwZW5kKGNoaWxkLnRleHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlOi8vL2NocnlzbGVyLmRiJywgZWNobz1UcnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY2F0ZWdvcnkgPSByZWxhdGlvbnNoaXAoIkNhdGVnb3J5IiwgYmFja3JlZj0ic2VudGVuY2VzIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY2F0ZWdvcnkgPSByZWxhdGlvbnNoaXAoJ0NhdGVnb3J5JywgYmFja19wb3B1bGF0ZXM9J2NhdGVnb3JpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGVuZ2luZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlOi8vL2NocnlzbGVyLmRiJywgZWNobz1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
