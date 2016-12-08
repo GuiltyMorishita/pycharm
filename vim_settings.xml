@@ -111,10 +111,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1481186804654">
+      <file name="/Python Console" timestamp="1481191756343">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1481178703148">
+      <file name="/fragment.py" timestamp="1481190151842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -176,10 +176,11 @@
       <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/wikipedia/wikipedia.py" timestamp="1480755616821">
         <mark key="[" line="388" column="29" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481187984147">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481192311405">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+        <mark key="^" line="28" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
@@ -388,7 +389,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PHMxIGlkPSJDSFI0OTgyNTI4MGUzZjYxMDA0ODlkY2Q5ZTE2NjdmNzcyNSI+PHB0eHQgaWQ9IkNIUjQ5ODI1MjgwZTNmNjEwMDQ4OWRkZDllMTY2N2Y3NzI1Ij7jgq/jg63jgrnjg6Hjg7Pjg5Djga7lj7PlgbTjgYzkuIvjgYzjgovjgojjgYbjgavjgIHjgrjjg6Pjg4Pjgq3jgpI8ZW1waD7jgobjgaPjgY/jgoo8L2VtcGg+5LiL44GS44KL44CCPGVtcGg+44K444Oj44OD44Kt44KS6YCf44GE44Oa44O844K544Gn5LiL44GS44Gq44GE44GT44Go44CCPC9lbXBoPiDjgrnjg5fjg6rjg7PjgrAoMinjgpLlj5bjgorku5jjgZHjgonjgozjgovnqIvluqbjgb7jgafjgrjjg6Pjg4Pjgq3jgpLkuIvjgZLjgovjgII8ZW1waD7lv4XopoHku6XkuIrjgavjgrjjg6Pjg4Pjgq3jgpLkuIvjgZLjgarjgYTjgZPjgajjgII8L2U=</text>
+        <text>ptxt</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
@@ -397,31 +398,31 @@
         <text encoding="base64">ICAgIG1vcnBoZW1lcyA9IENvbHVtbihTdHJpbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaG9nZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQudGV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCByZS5tYXRjaChyIkdvIFRvIiwgcHR4dCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNoaWxkLnRhZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY2hpbGQudGV4dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY2hpbGQuZmluZCgnLi8vc3ltYm9sW0BuYW1lPSJza2lwIl0nKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHR4dCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYSBpbiB0cmVlLmZpbmRhbGwoJy4vL3B0eHQvc3ltYm9sW0BuYW1lPSJza2lwIl0nKToKICAgICAgICAgICAgcHJpbnQoYS50ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwdHh0ICs9IG5vZGUudGV4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGEudGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vZGUudGV4dDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGEgaW4gY2hpbGQuZ2V0aXRlcmF0b3IoInB0eHQiKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG5vZGUgaW4gY2hpbGQuaXRlcigpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHMxIGlkPSJDSFIwNmUxZTU4OGRlYzYxMDA0ODA4YWZkYzgzNDYxNDgyMSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHR4dCA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudGVuY2UubW9ycGhlbWVzID0gW01vcnBoZW1lKHN1cmZhY2U9bW9ycGgpIGZvciBtb3JwaCBpbiBnZXRfbW9ycGhfbGlzdChzZW50ZW5jZV9qYSldCg==</text>
+        <text encoding="base64">ICAgICAgICBzID0gc291cC5maW5kQWxsKCJwdHh0IikK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
