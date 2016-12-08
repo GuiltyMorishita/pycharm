@@ -73,11 +73,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481019411952">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481108308124">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
         <mark key="[" line="0" column="0" />
@@ -174,11 +174,11 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1481106595756">
+      <file name="/code.py" timestamp="1481108116060">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="33" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" timestamp="1480752602510">
         <mark key="'" line="241" column="0" />
@@ -265,10 +265,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/db.py" timestamp="1481106685550">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/db.py" timestamp="1481108181223">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479198871653">
         <mark key="[" line="29" column="17" />
@@ -378,34 +379,34 @@
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzcWxhbGNoZW15IGltcG9ydCBjcmVhdGVfZW5naW5lLCBDb2x1bW4sIEludGVnZXIsIFN0cmluZwo=</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5X2lkID0gQ29sdW1uKEludGVnZXIsIEZvcmVpZ25LZXkoJ2NhdGVnb3JpZXMuaWQnKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgY2F0ZWdvcnkgPSByZWxhdGlvbnNoaXAoIkNhdGVnb3J5IiwgYmFja3JlZj0ic2VudGVuY2VzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY2F0ZWdvcnkgPSByZWxhdGlvbnNoaXAoJ0NhdGVnb3J5JywgYmFja19wb3B1bGF0ZXM9J2NhdGVnb3JpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">QmFzZS5tZXRhZGF0YS5jcmVhdGVfYWxsKGVuZ2luZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5naW5lID0gY3JlYXRlX2VuZ2luZSgnc3FsaXRlOi8vL2NocnlzbGVyLmRiJywgZWNobz1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gcmVsYXRpb25zaGlwKAo=</text>
+        <text encoding="base64">ICAgICMgY2F0ZWdvcnkgPSByZWxhdGlvbnNoaXAoIkNhdGVnb3J5IiwgYmFja3JlZj0ic2VudGVuY2VzIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2F0ZWdvcnkgPSByZWxhdGlvbnNoaXAoJ0NhdGVnb3J5JywgYmFja19wb3B1bGF0ZXM9J2NhdGVnb3JpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9tb3JwaGVtZShzZW50ZW5jZSk6Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
