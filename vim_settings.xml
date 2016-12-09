@@ -191,9 +191,6 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/linebot/models/events.py" timestamp="1480752602510">
-        <mark key="'" line="241" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -241,7 +238,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_00 - Vehicle Data_01.xml" timestamp="1481006250221">
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_00 - Vehicle Data_01.xml" timestamp="1481260609967">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/LINE_BOT/becon.py" timestamp="1480758348410">
