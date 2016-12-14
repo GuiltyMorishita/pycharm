@@ -33,7 +33,7 @@
         <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" timestamp="1481014440316">
-        <mark key="'" line="23" column="6892" />
+        <mark key="'" line="7210" column="6892" />
         <mark key="[" line="0" column="13429" />
         <mark key="]" line="0" column="13428" />
         <mark key="^" line="0" column="13428" />
@@ -68,6 +68,9 @@
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_en.txt" timestamp="1481708054831">
+        <mark key="'" line="11152" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_EN/05 - Brakes, Base_01.xml" timestamp="1481183114368">
         <mark key="[" line="1404" column="45" />
         <mark key="]" line="1404" column="0" />
@@ -92,6 +95,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_ja.txt" timestamp="1481708057199">
+        <mark key="'" line="11152" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/client.py" timestamp="1480513127592">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -101,10 +107,6 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/card2vec/card2vec.py" timestamp="1481010230316">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="73" column="41" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478589863931">
         <mark key="[" line="1" column="13" />
@@ -176,7 +178,10 @@
       <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/wikipedia/wikipedia.py" timestamp="1480755616821">
         <mark key="[" line="388" column="29" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481194495237">
+      <file name="/dummy.sql" timestamp="1481734533342">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481278386196">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -185,11 +190,11 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1481193421034">
+      <file name="/code.py" timestamp="1481708036366">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="22" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
@@ -383,6 +388,12 @@
       <jump line="23" column="6892" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" />
       <jump line="16" column="40" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2json.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2json.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_en.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_ja.txt" />
+      <jump line="11083" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_en.txt" />
+      <jump line="11129" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_ja.txt" />
+      <jump line="11152" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_en.txt" />
+      <jump line="11152" column="0" filename="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_full_ja.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
