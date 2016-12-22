@@ -141,10 +141,10 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1481894548343">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="42" column="60" />
-        <mark key="." line="42" column="60" />
+      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1482396401979">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
         <mark key="^" line="42" column="60" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
@@ -190,7 +190,7 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1481892654575">
+      <file name="/code.py" timestamp="1482396305026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
@@ -397,7 +397,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ptxt</text>
+        <text>flag</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
