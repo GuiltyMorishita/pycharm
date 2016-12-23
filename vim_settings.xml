@@ -135,17 +135,12 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/meme.py" timestamp="1482486254268">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1482486202808">
-        <mark key="[" line="47" column="61" />
-        <mark key="]" line="47" column="76" />
-        <mark key="." line="47" column="76" />
-        <mark key="^" line="47" column="76" />
+      <file name="$USER_HOME$/Ebios/Python/meme/meme.py" timestamp="1482505915191" />
+      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1482507302428">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
@@ -190,7 +185,7 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1482490308339">
+      <file name="/code.py" timestamp="1482505703853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
@@ -275,9 +270,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1480995407172">
-        <mark key="[" line="3" column="12" />
-      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1482505636962" />
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/category.py" timestamp="1481088956689">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="31" />
@@ -397,40 +390,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dt_now</text>
+        <text>reference_time.total_seconds()</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZmVyZW5jZV9zdGFydF90aW1lID0gZGF0ZXRpbWUubm93KCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBkYXRhX2FwcGVuZChzZWxmKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiICE9IHJpZ2h0X3RhYjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YXMuYXBwZW5kKFtsZWZ0X3RhYi51cmwsIHJpZ2h0X3RhYi51cmwsIHJlZmVyZW5jZV90aW1lLnRvdGFsX3NlY29uZHMoKV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdF9ub3cgPSBkYXRldGltZS5ub3coKQogICAgICAgICAgICAgICAgICAgIHByaW50KGR0X25vdywgbGVmdF90YWIsIHJpZ2h0X3RhYikKICAgICAgICAgICAgICAgICAgICBzZWxmLmRhdGFzLmFwcGVuZChbZHRfbm93LCBsZWZ0X3RhYi51cmwsIHJpZ2h0X3RhYi51cmxdKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBsZWZ0X3RhYiA9IGNocm9tZS50YWJzWzBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWZlcmVuY2VfZW5kX3RpbWUgPSBkYXRldGltZS5ub3coKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVmZXJlbmNlX3RpbWUgPSByZWZlcmVuY2VfZW5kX3RpbWUgLSByZWZlcmVuY2Vfc3RhcnRfdGltZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInt9XG57fTp7fVxue306e31cbiIuZm9ybWF0KHN0cihyZWZlcmVuY2VfdGltZS50b3RhbF9zZWNvbmRzKCkpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlZnRfdGFiLnRpdGxlLCBsZWZ0X3RhYi51cmwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmlnaHRfdGFiLnRpdGxlLCByaWdodF90YWIudXJsKSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbGlmIC10aHJlc2hvbGQgPCBneXJvX3ogPCB0aHJlc2hvbGQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50KHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZXZpb3VzX3RhYiA9IHJpZ2h0X3RhYgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
@@ -467,6 +460,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
