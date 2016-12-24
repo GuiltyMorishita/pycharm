@@ -136,9 +136,9 @@
         <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/meme.py" timestamp="1482505915191" />
-      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1482510198626">
-        <mark key="[" line="39" column="49" />
-        <mark key="]" line="53" column="54" />
+      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1482550753615">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="61" />
         <mark key="^" line="53" column="54" />
         <mark key="." line="53" column="54" />
       </file>
@@ -396,7 +396,7 @@
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJldmlvdXNfdGFiX3VybCA9IHJpZ2h0X3RhYi51cmwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiX3VybCAhPSByaWdodF90YWIudXJsOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hcHBlbmRfZGF0YShyaWdodF90YWIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlZmVyZW5jZV9zdGFydF90aW1lID0gZGF0ZXRpbWUubm93KCkK</text>
