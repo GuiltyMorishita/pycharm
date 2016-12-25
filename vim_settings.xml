@@ -185,7 +185,7 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1482688776488">
+      <file name="/code.py" timestamp="1482689152817">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
@@ -268,6 +268,12 @@
         <mark key="]" line="4" column="31" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1482689211471">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/db.py" timestamp="1481182538019">
         <mark key="[" line="23" column="0" />
@@ -391,36 +397,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">bG9nX2FuYWx5emluZy5pcHluYgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cmVzdWx0Lwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bG9nLnhsc3gK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>1,chrome://newtab/,http://learngitbranching.js.org/,36.043003000000006
 0,chrome://newtab/,http://kray.jp/blog/git-why-explanation/,3.343264
 2,chrome://newtab/,http://www.backlog.jp/git-guide/stepup/stepup7_5.html,0.226465</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>http://k.swd.cc/learnGitBranching-ja/,
 http://k.swd.cc/learnGitBranching-ja/,
 http://k.swd.cc/learnGitBranching-ja/,
 http://k.swd.cc/learnGitBranching-ja/,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">MjQsaHR0cDovL2suc3dkLmNjL2xlYXJuR2l0QnJhbmNoaW5nLWphLyxodHRwczovL3d3dy5nb29nbGUuY28uanAvd2ViaHA/c291cmNlaWQ9Y2hyb21lLWluc3RhbnQmaW9uPTEmZXNwdj0yJmllPVVURi04LGh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDJfMy5odG1sLDAuMTE0NjU3Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
+        <text encoding="base64">MjQsaHR0cDovL2suc3dkLmNjL2xlYXJuR2l0QnJhbmNoaW5nLWphLyxodHRwczovL3d3dy5nb29nbGUuY28uanAvd2ViaHA/c291cmNlaWQ9Y2hyb21lLWluc3RhbnQmaW9uPTEmZXNwdj0yJmllPVVURi04LGh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDJfMy5odG1sLDAuMTE0NjU3Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
