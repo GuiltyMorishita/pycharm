@@ -21,7 +21,6 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/saito2.csv" timestamp="1482556607136" />
       <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480991995847">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -32,13 +31,6 @@
         <mark key="[" line="2" column="45" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler_ja.txt" timestamp="1481014440316">
-        <mark key="'" line="7210" column="6892" />
-        <mark key="[" line="0" column="13429" />
-        <mark key="]" line="0" column="13428" />
-        <mark key="^" line="0" column="13428" />
-        <mark key="." line="0" column="13428" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/runtime.txt" timestamp="1480327532490">
         <mark key="[" line="0" column="0" />
@@ -64,6 +56,11 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/saito1.csv" timestamp="1482673677784">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="70" />
+        <mark key="." line="4" column="70" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/setup.py" timestamp="1480678740128">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
@@ -88,9 +85,13 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/saito4.csv" timestamp="1482558770326" />
       <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/katsui2.csv" timestamp="1482674974992">
+        <mark key="[" line="17" column="167" />
+        <mark key="]" line="17" column="167" />
+        <mark key="." line="17" column="167" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481250349408">
         <mark key="[" line="45" column="6" />
@@ -110,6 +111,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/oyanagi1.csv" timestamp="1482673691705">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478589863931">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="2" column="0" />
@@ -124,12 +130,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2json.py" timestamp="1481184405296">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="21" column="104" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="32" />
+      <file name="$USER_HOME$/Ebios/Python/meme/katsui1.csv" timestamp="1482673762184">
+        <mark key="[" line="21" column="95" />
+        <mark key="]" line="21" column="95" />
+        <mark key="^" line="25" column="188" />
+        <mark key="." line="21" column="95" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480586512000">
         <mark key="[" line="44" column="15" />
@@ -137,8 +142,6 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/meme.py" timestamp="1482659970913" />
-      <file name="$USER_HOME$/Ebios/Python/meme/logger.py" timestamp="1482659931760" />
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="20" column="57" />
@@ -182,7 +185,7 @@
       <file name="/Dummy.txt" timestamp="1480603962533">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1482659956045">
+      <file name="/code.py" timestamp="1482674907109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
@@ -238,13 +241,6 @@
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_00 - Vehicle Data_01.xml" timestamp="1481260609967">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/LINE_BOT/becon.py" timestamp="1480758348410">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="61" column="28" />
-        <mark key="]" line="62" column="12" />
-        <mark key="." line="62" column="12" />
-        <mark key="^" line="62" column="12" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="15" column="10" />
@@ -267,7 +263,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1482505636962" />
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/category.py" timestamp="1481088956689">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="31" />
@@ -387,7 +382,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>http://k.swd.cc/learnGitBranching-ja/,</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
@@ -396,31 +391,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
+      <register name="2" type="4">
+        <text>1,chrome://newtab/,http://learngitbranching.js.org/,36.043003000000006
+0,chrome://newtab/,http://kray.jp/blog/git-why-explanation/,3.343264
+2,chrome://newtab/,http://www.backlog.jp/git-guide/stepup/stepup7_5.html,0.226465</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
+      <register name="3" type="8">
+        <text>http://k.swd.cc/learnGitBranching-ja/,
+http://k.swd.cc/learnGitBranching-ja/,
+http://k.swd.cc/learnGitBranching-ja/,
+http://k.swd.cc/learnGitBranching-ja/,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
+        <text encoding="base64">MjQsaHR0cDovL2suc3dkLmNjL2xlYXJuR2l0QnJhbmNoaW5nLWphLyxodHRwczovL3d3dy5nb29nbGUuY28uanAvd2ViaHA/c291cmNlaWQ9Y2hyb21lLWluc3RhbnQmaW9uPTEmZXNwdj0yJmllPVVURi04LGh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDJfMy5odG1sLDAuMTE0NjU3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiX3VybCAhPSByaWdodF90YWIudXJsOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5hcHBlbmRfZGF0YShyaWdodF90YWIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlZmVyZW5jZV9zdGFydF90aW1lID0gZGF0ZXRpbWUubm93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocmlnaHRfdGFiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocHJldmlvdXNfdGFiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuYXBwZW5kX2RhdGEocmlnaHRfdGFiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
