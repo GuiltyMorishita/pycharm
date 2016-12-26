@@ -3,10 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1480172816867">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui_total.csv" timestamp="1482719897470" />
+      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui_total.csv" timestamp="1482726520324" />
       <file name="$USER_HOME$/Ebios/Python/meme/result/katsui2.csv" timestamp="1482716015052">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -17,9 +14,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1481089215411">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/result/saito1.csv" timestamp="1482713341461" />
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
@@ -90,14 +84,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/hoge.csv" timestamp="1482727680035">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481195314152">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="3" />
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hs_card_list.json" timestamp="1478675541025">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/katsui2.csv" timestamp="1482674974992">
         <mark key="[" line="17" column="167" />
@@ -129,9 +125,6 @@
         <mark key="[" line="1" column="13" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1482486259097">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1482486412265">
         <mark key="[" line="0" column="0" />
@@ -189,22 +182,13 @@
         <mark key="^" line="116" column="24" />
         <mark key="." line="116" column="24" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/wikipedia/wikipedia.py" timestamp="1480755616821">
-        <mark key="[" line="388" column="29" />
-      </file>
-      <file name="/dummy.sql" timestamp="1481734533342">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481278386196">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1480603962533">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1482716625199">
+      <file name="/code.py" timestamp="1482727698173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
@@ -243,9 +227,6 @@
         <mark key="]" line="19" column="17" />
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/testchromote.py" timestamp="1480600129131">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
         <mark key="[" line="2" column="28" />
@@ -419,15 +400,24 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgcHJldmlvdXNfdGFiLnVybCAhPSByaWdodF90YWIudXJsOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NCxodHRwOi8vay5zd2QuY2MvbGVhcm5HaXRCcmFuY2hpbmctamEvLGh0dHBzOi8vd3d3Lmdvb2dsZS5jby5qcC93ZWJocD9obD1qYSZpY3R4PTImc2E9WCZ2ZWQ9MGFoVUtFd2kyenEyd2lvelJBaFdCZjd3S0hWcllDcDBRUFFnRCwxODQuNTQ1Mzc4Cg==</text>
+        <text encoding="base64">aHR0cDovL3d3dy5iYWNrbG9nLmpwL2dpdC1ndWlkZS9yZWZlcmVuY2UvYnJhbmNoLmh0bWwsMSwxCmh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDFfMS5odG1sLDEsMQpodHRwOi8vd3d3LmJhY2tsb2cuanAvZ2l0LWd1aWRlL3N0ZXB1cC9zdGVwdXAxXzIuaHRtbCwxLDEKaHR0cDovL3d3dy5iYWNrbG9nLmpwL2dpdC1ndWlkZS9zdGVwdXAvc3RlcHVwMV8zLmh0bWwsMSwxCmh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDFfNC5odG1sLDEsMQpodHRwOi8vd3d3LmJhY2tsb2cuanAvZ2l0LWd1aWRlL3N0ZXB1cC9zdGVwdXAxXzUuaHRtbCwxLDEKaHR0cDovL3d3dy5iYWNrbG9nLmpwL2dpdC1ndWlkZS9zdGVwdXAvc3RlcHVwMl8xLmh0bWwsMSwxCmh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDJfMi5odG1sLDEsMQpodHRwOi8vd3d3LmJhY2tsb2cuanAvZ2l0LWd1aWRlL3N0ZXB1cC9zdGVwdXAyXzMuaHRtbCwxLDEKaHR0cDovL3d3dy5iYWNrbG9nLmpwL2dpdC1ndWlkZS9zdGVwdXAvc3RlcHVwMl80Lmh0bWwsMiwyCmh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDJfNS5odG1sLDIsMgpodHRwOi8vd3d3LmJhY2tsb2cuanAvZ2l0LWd1aWRlL3N0ZXB1cC9zdGVwdXAyXzYuaHRtbCwxLDEKaHR0cDovL3d3dy5iYWNrbG9nLmpwL2dpdC1ndWlkZS9zdGVwdXAvc3RlcHVwMl83Lmh0bWwsMSwxCmh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDJfOC5odG1sLDEsMQpodHRwOi8vd3d3LmJhY2tsb2cuanAvZ2l0LWd1aWRlL3N0ZXB1cC9zdGVwdXA2XzQuaHRtbCwxLDEKaHR0cDovL3d3dy5iYWNrbG9nLmpwL2dpdC1ndWlkZS9zdGVwdXAvc3RlcHVwN18yLmh0bWwsMSwxCmh0dHA6Ly93d3cuYmFja2xvZy5qcC9naXQtZ3VpZGUvc3RlcHVwL3N0ZXB1cDdfNC5odG1sLDEsMQpodHRwOi8vd3d3LmJhY2tsb2cuanAvZ2l0LWd1aWRlL3N0ZXB1cC9zdGVwdXA3XzUuaHRtbCwxLDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MzIsaHR0cDovL2xlYXJuZ2l0YnJhbmNoaW5nLmpzLm9yZy8saHR0cHM6Ly93d3cuZ29vZ2xlLmNvLmpwL3dlYmhwP2hsPWphJmljdHg9MiZzYT1YJnZlZD0wYWhVS0V3amhscC1laTRfUkFoV0tnTHdLSFhiM0R1UVFQUWdELDIzNC4xMjQ4MDU5OTk5OTk5NQo=</text>
+        <text encoding="base64">aHR0cDovL3FpaXRhLmNvbS9tYXNhc2hpMTI3L2l0ZW1zLzJlMTAzYzNmYmE5ZDFiMDU4OTYxLDEsMQpodHRwOi8vcWlpdGEuY29tL211cmFuMDAxL2l0ZW1zL2RlYTJiYmJhZWExMjYwMDk4MDUxLDEsMQpodHRwOi8vcWlpdGEuY29tL290YTQyeS9pdGVtcy80MDRmOTUyM2IyMGUwNGJlYjBlMywxLDEKaHR0cDovL3FpaXRhLmNvbS9wdWdpZW1vbm4vaXRlbXMvMzRiNTZiMWFhNzU3ZTMzMTMzZTQsMSwxCmh0dHA6Ly9xaWl0YS5jb20vc2h1bnRhcm9fdGFtdXJhL2l0ZW1zLzA2MjgxMjYxZDg5M2FjZjA0OWVkLDEsMQpodHRwOi8vcWlpdGEuY29tL3Rha2tlL2l0ZW1zLzM0MDBiNTViZWNmZDcyNzY5MjE0LDEsMQpodHRwOi8vcmZzLmpwL3NlcnZlci9naXQvZ2l0ZS1sYWIvZ2l0LWNoZXJyeS1waWNrLmh0bWwsMSwxCmh0dHA6Ly9zb3RhMTIzNS5jb20vYmxvZy8yMDE1LzAzLzE5L2dpdC1yZWJhc2UuaHRtbCwxLDEK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cmVmZXJlbmNlLHRhcmdldCxyZWZlcmVuY2UgdGltZQpodHRwOi8vYmxvZy5zaGliYXl1MzYub3JnL2VudHJ5LzIwMTAwMjIxLzEyNjY2Nzg4MjcsMSwxCmh0dHA6Ly9kLmhhdGVuYS5uZS5qcC9tcmdvb2Z5MzMvMjAxMDA5MTAvMTI4NDA2OTQ2OCwxLDEKaHR0cDovL2phLnN0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8xNzYyNC9naXRodWIlRTMlODElQTclRTklOTYlOEIlRTclOTklQkElRTMlODIlOTIlRTMlODElOTclRTMlODElQTYlRTMlODElODQlRTMlODIlOEIlRTMlODElQUUlRTMlODElQTclRTMlODElOTklRTMlODElOEMtYnJhbmNoJUUzJTgxJUFFJUU1JUE0JTg5JUU2JTlCJUI0JUUzJTgyJTkybWFzdGVyJUUzJTgxJUFCbWVyZ2UlRTMlODElOTclRTMlODElOUYlRTMlODElQUUlRTMlODElQTclRTMlODElOTklRTMlODElOEMlRTMlODElODYlRTMlODElQkUlRTMlODElOEYlRTMlODElODQlRTMlODElOEQlRTMlODElQkUlRTMlODElOUIlRTMlODIlOTMsMSwxCmh0dHA6Ly9rYWtha2FrYWtrdS5oYXRlbmFibG9nLmNvbS9lbnRyeS8yMDE2LzAxLzE0LzIyNDAxOSwxLDEKaHR0cDovL2tyYXkuanAvYmxvZy9naXQtd2h5LWV4cGxhbmF0aW9uLywxLDEKaHR0cDovL2t5b24tbW0uaGF0ZW5hYmxvZy5jb20vZW50cnkvMjAxMjEyMTcvMTM1NTcwNjc4MywxLDEKaHR0cDovL2xhYnMudGltZWRpYS5jby5qcC8yMDEwLzEyL2dpdC1tb3ZpbmctY2hhbmdlcy13aXRoLWNoZXJyeS1waWNrLi1qYS8sMSwxCmh0dHA6Ly9sYWJzLnRpbWVkaWEuY28uanAvMjAxMC8xMi9naXQtbW92aW5nLWNoYW5nZXMtd2l0aC1jaGVycnktcGljay5odG1sLDEsMQpodHRwOi8vbW9yaXp5dW4uZ2l0aHViLmlvL2Jsb2cvaG93LXRvLWdpdC1yZXZpZXctYm9vay8sMSwxCmh0dHA6Ly9va2kyYTI0LmNvbS8yMDE2LzA0LzEwL21ha2UtbmV3LWJyYW5jaC1hdC1hbnktY29tbWl0LWluLWdpdC8sMSwxCmh0dHA6Ly9xaWl0YS5jb20vMm0xdHN1My9pdGVtcy82ZDQ5Mzc0MjMwYWZhYjI1MTMzNywxLDEK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">NCxodHRwOi8vay5zd2QuY2MvbGVhcm5HaXRCcmFuY2hpbmctamEvLGh0dHBzOi8vd3d3Lmdvb2dsZS5jby5qcC93ZWJocD9obD1qYSZpY3R4PTImc2E9WCZ2ZWQ9MGFoVUtFd2kyenEyd2lvelJBaFdCZjd3S0hWcllDcDBRUFFnRCwxODQuNTQ1Mzc4Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">MzIsaHR0cDovL2xlYXJuZ2l0YnJhbmNoaW5nLmpzLm9yZy8saHR0cHM6Ly93d3cuZ29vZ2xlLmNvLmpwL3dlYmhwP2hsPWphJmljdHg9MiZzYT1YJnZlZD0wYWhVS0V3amhscC1laTRfUkFoV0tnTHdLSFhiM0R1UVFQUWdELDIzNC4xMjQ4MDU5OTk5OTk5NQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ki5jc3YK</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>11,11,10,
 12,12,11,
 13,13,12,
@@ -435,7 +425,7 @@
 15,15,14,
 16,16,15,</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text>0,0,0,
 1,1,1,
 2,2,2,
@@ -447,7 +437,7 @@
 8,8,7,
 9,9,8,</text>
       </register>
-      <register name="6" type="8">
+      <register name="9" type="8">
         <text>10,
 11,
 12,
@@ -463,21 +453,6 @@
 22,
 23,
 24,</text>
-      </register>
-      <register name="7" type="8">
-        <text>7,
-8,
-9,</text>
-      </register>
-      <register name="8" type="8">
-        <text>7,7
-8,8
-9,9
-10,
-11,</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">bG9nX2FuYWx5emluZy5pcHluYgo=</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
