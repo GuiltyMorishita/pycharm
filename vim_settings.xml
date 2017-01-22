@@ -107,6 +107,9 @@
         <mark key="]" line="17" column="167" />
         <mark key="." line="17" column="167" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/generate_manual.py" timestamp="1485070254516">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481250349408">
         <mark key="[" line="45" column="6" />
         <mark key="]" line="37" column="0" />
@@ -204,11 +207,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/code.py" timestamp="1482727698173">
+      <file name="/code.py" timestamp="1485070931173">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
