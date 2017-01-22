@@ -75,7 +75,7 @@
         <mark key="]" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui1.csv" timestamp="1485086710558">
+      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui1.csv" timestamp="1485087577125">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="1" column="225" />
@@ -102,16 +102,21 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/manual/markdown.css" timestamp="1485096004498">
+        <mark key="]" line="4" column="145" />
+        <mark key="^" line="4" column="145" />
+        <mark key="." line="4" column="145" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/katsui2.csv" timestamp="1482674974992">
         <mark key="[" line="17" column="167" />
         <mark key="]" line="17" column="167" />
         <mark key="." line="17" column="167" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/generate_manual.py" timestamp="1485075139349">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
+      <file name="$USER_HOME$/Ebios/Python/meme/generate_manual.py" timestamp="1485096363582">
+        <mark key="[" line="28" column="72" />
+        <mark key="]" line="28" column="84" />
+        <mark key="." line="28" column="84" />
+        <mark key="^" line="28" column="84" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481250349408">
         <mark key="[" line="45" column="6" />
@@ -143,7 +148,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1482486412265">
+      <file name="/Python Console" timestamp="1485092059656">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1485092078760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -210,11 +218,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/code.py" timestamp="1485085571645">
+      <file name="/code.py" timestamp="1485092551280">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="54" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
@@ -299,8 +307,8 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1482716337660">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1485096479102">
+        <mark key="[" line="4" column="7" />
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
@@ -418,40 +426,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>[</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGtleXdvcmRzMiA9IFsiI+a3seWknOOBruODieODvOODq+aSruW9sTYw5YiG5LiA5pys5Yud6LKgIiwgIiPjg5fjg7zjg6rjg4Pjg5ciLCAi44Kk44K544Or5biD5pWZ5aeU5ZOh5LyaIiwKICAgICAgICAgICAgICAgICAiI+OCquODk+ODhDUw44OY44OD44OJ5Y2U5ZCM57WE5ZCIIl0K</text>
+        <text encoding="base64">aHRtbCA9ICc8bGluayBocmVmPSJodHRwczovL3Jhdy5naXRodWIuY29tL2phc29ubTIzL01hcmtkb3duLUNTUy9tYXN0ZXIvbWFya2Rvd24uY3NzIiByZWw9InN0eWxlc2hlZXQiPjwvbGluaz4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHRtbCA9ICc8bGluayBocmVmPSJodHRwczovL3Jhdy5naXRodWIuY29tL2phc29ubTIzL01hcmtkb3duLUNTUy9tYXN0ZXIvbWFya2Rvd24uY3NzIiByZWw9InN0eWxlc2hlZXQiPjwvbGluaz4nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxhc3NpZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLea3seWknOezu+OBruiHquWLleaKleeovy0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAga2V5d29yZHMyID0gWyIj5rex5aSc44Gu44OJ44O844Or5pKu5b2xNjDliIbkuIDmnKzli53osqAiLCAiI+ODl+ODvOODquODg+ODlyIsICLjgqTjgrnjg6vluIPmlZnlp5Tlk6HkvJoiLAogICAgICAgICAgICAgICAgICIj44Kq44OT44OENTDjg5jjg4Pjg4nljZTlkIzntYTlkIgiXQogICAgcmVzdWx0X3R3ZWV0cyA9IHNlYXJjaF90d2l0dGVyKGdldF9xdWVyeShrZXl3b3JkczIsIGV4cGVjdD0iI+OBhuOBoeOBruOBk+OBi+OCj+OBhOOBhCwj44OJ44O844Or44Kq44O844OK44O844GV44KT44Go57mL44GM44KK44Gf44GEIikpCiAgICBidWlsdF9jb250ZW50ID0gYnVpbGRfY29udGVudChyZXN1bHRfdHdlZXRzKQoKICAgICMgVHdpdHRlcuOBruOCq+ODhuOCtOODquaDheWgseOCkuWPluW+lwogICAgY2F0ZWdvcnkgPSB3cC5jYWxsKHRheG9ub21pZXMuR2V0VGVybSgnY2F0ZWdvcnknLCAxNikpCiAgICAjIOaKleeov+aZgumWk+OBr1dQ44Gu5LuV5qeY5LiK77yZ5pmC6ZaT5YmN44KS5oyH5a6aCiAgICBwb3N0X3RpbWUgPSB0aW1lKDEzLCAwLCAwKSAgIyAyMuaZggogICAgcG9zdF9kYXRldGltZSA9IGRhdGV0aW1lLmNvbWJpbmUoZGF0ZS50b2RheSgpLCBwb3N0X3RpbWUpCgogICAgcG9zdCA9IFdvcmRQcmVzc1Bvc3QoKQogICAgcG9zdC5kYXRlID0gcG9zdF9kYXRldGltZQogICAgcG9zdC50aXRsZSA9ICLmr47lpJzmm7TmlrAhIeODieODvOODq+eUu+WDj+ODlOODg+OCr+OCouODg+ODl+KZqiIKICAgIHBvc3QuY29udGVudCA9IGJ1aWx0X2NvbnRlbnQKICAgIHBvc3QudGVybXMuYXBwZW5kKGNhdGVnb3J5KQogICAgcG9zdC5wb3N0X3RhdHVzID0gImZ1dHVyZSIKICAgIHdwLmNhbGwoTmV3UG9zdChwb3N0KSkKICAgIHByaW50KCLjg5Tjg4Pjgq/jgqLjg4Pjg5fmipXnqL/lrozkuoYiKQo=</text>
+        <text encoding="base64">ICAgIGZldGNoZWQgPSBsYXNzaWUuZmV0Y2gocmVmZXJlbmNlKQogICAgcHJpbnQoZmV0Y2hlZFsndGl0bGUnXSkKICAgIHByaW50KGZldGNoZWRbJ2Rlc2NyaXB0aW9uJ10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MCxodHRwOi8vbGVhcm5naXRicmFuY2hpbmcuanMub3JnLyxodHRwczovL3d3dy5nb29nbGUuY28uanAvd2ViaHA/aGw9amEmaWN0eD0yJnNhPVgmdmVkPTBhaFVLRXdqaGxwLWVpNF9SQWhXS2dMd0tIWGIzRHVRUVBRZ0QsMjM0LjEyNDgwNTk5OTk5OTk1Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MCxodHRwOi8vay5zd2QuY2MvbGVhcm5HaXRCcmFuY2hpbmctamEvLGh0dHBzOi8vd3d3Lmdvb2dsZS5jby5qcC93ZWJocD9obD1qYSZpY3R4PTImc2E9WCZ2ZWQ9MGFoVUtFd2kyenEyd2lvelJBaFdCZjd3S0hWcllDcDBRUFFnRCwxODQuNTQ1Mzc4Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MyxodHRwOi8vay5zd2QuY2MvbGVhcm5HaXRCcmFuY2hpbmctamEvLGh0dHBzOi8vd3d3Lmdvb2dsZS5jby5qcC93ZWJocD9obD1qYSZpY3R4PTImc2E9WCZ2ZWQ9MGFoVUtFd2lkOTZPY2lvelJBaFhCdjd3S0hUaU5ETlFRUFFnRCw0Ljc1NDEyMgo=</text>
+        <text encoding="base64">ICAgIGh0bWwgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlZmVyZW5jZSkKICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWwsICdseG1sJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MTIsaHR0cDovL2suc3dkLmNjL2xlYXJuR2l0QnJhbmNoaW5nLWphLyxodHRwczovL3d3dy5nb29nbGUuY28uanAvd2ViaHA/aGw9amEmaWN0eD0yJnNhPVgmdmVkPTBhaFVLRXdqR21lZXZqNHpSQWhYSWZMd0tIVTFMRFJrUVBRZ0QsMTcuMjMwMTM3Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdlYmJyb3dzZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MSxodHRwOi8vay5zd2QuY2MvbGVhcm5HaXRCcmFuY2hpbmctamEvLGh0dHBzOi8vd3d3Lmdvb2dsZS5jby5qcC93ZWJocD9zb3VyY2VpZD1jaHJvbWUtaW5zdGFudCZpb249MSZlc3B2PTImaWU9VVRGLTgjcT1naXQlMjAlRTMlODMlOTYlRTMlODMlQTklRTMlODMlQjMlRTMlODMlODElMjAlRTclQTclQkIlRTUlOEIlOTUsMTMxLjMzNTc5Mgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MCxodHRwOi8vay5zd2QuY2MvbGVhcm5HaXRCcmFuY2hpbmctamEvLGh0dHBzOi8vd3d3Lmdvb2dsZS5jby5qcC93ZWJocD9obD1qYSZpY3R4PTImc2E9WCZ2ZWQ9MGFoVUtFd2pOcEt2VG00elJBaFdMZTd3S0hVTGFDM2tRUFFnRCwzOS44MDUzNjI5OTk5OTk5OQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
