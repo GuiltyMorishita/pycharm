@@ -112,11 +112,11 @@
         <mark key="]" line="17" column="167" />
         <mark key="." line="17" column="167" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/generate_manual.py" timestamp="1485251974342">
-        <mark key="[" line="28" column="72" />
-        <mark key="]" line="28" column="84" />
-        <mark key="." line="28" column="84" />
-        <mark key="^" line="28" column="84" />
+      <file name="$USER_HOME$/Ebios/Python/meme/generate_manual.py" timestamp="1485346395444">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481250349408">
         <mark key="[" line="45" column="6" />
@@ -435,28 +435,28 @@
         <text encoding="base64">aHRtbCA9ICc8bGluayBocmVmPSJodHRwczovL3Jhdy5naXRodWIuY29tL2phc29ubTIzL01hcmtkb3duLUNTUy9tYXN0ZXIvbWFya2Rvd24uY3NzIiByZWw9InN0eWxlc2hlZXQiPjwvbGluaz4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHRtbCA9ICc8bGluayBocmVmPSJodHRwczovL3Jhdy5naXRodWIuY29tL2phc29ubTIzL01hcmtkb3duLUNTUy9tYXN0ZXIvbWFya2Rvd24uY3NzIiByZWw9InN0eWxlc2hlZXQiPjwvbGluaz4nCg==</text>
+        <text encoding="base64">ICAgIGlmIGRlc2NyaXB0aW9uX3RhZzoKICAgICAgICBkZXNjcmlwdGlvbiA9IHN0cihkZXNjcmlwdGlvbl90YWcpLnNwbGl0KCciJylbMV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxhc3NpZQo=</text>
+        <text encoding="base64">aHRtbCA9ICc8bGluayBocmVmPSJodHRwczovL3Jhdy5naXRodWIuY29tL2phc29ubTIzL01hcmtkb3duLUNTUy9tYXN0ZXIvbWFya2Rvd24uY3NzIiByZWw9InN0eWxlc2hlZXQiPjwvbGluaz4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZldGNoZWQgPSBsYXNzaWUuZmV0Y2gocmVmZXJlbmNlKQogICAgcHJpbnQoZmV0Y2hlZFsndGl0bGUnXSkKICAgIHByaW50KGZldGNoZWRbJ2Rlc2NyaXB0aW9uJ10pCg==</text>
+        <text encoding="base64">aW1wb3J0IGxhc3NpZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZldGNoZWQgPSBsYXNzaWUuZmV0Y2gocmVmZXJlbmNlKQogICAgcHJpbnQoZmV0Y2hlZFsndGl0bGUnXSkKICAgIHByaW50KGZldGNoZWRbJ2Rlc2NyaXB0aW9uJ10pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGh0bWwgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlZmVyZW5jZSkKICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWwsICdseG1sJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHdlYmJyb3dzZXIK</text>
+        <text encoding="base64">ICAgIGh0bWwgPSB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlZmVyZW5jZSkKICAgIHNvdXAgPSBCZWF1dGlmdWxTb3VwKGh0bWwsICdseG1sJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdlYmJyb3dzZXIK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
