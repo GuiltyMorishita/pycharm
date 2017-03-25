@@ -19,7 +19,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1490425471587">
+      <file name="/a.dummy" timestamp="1490438999393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
@@ -117,6 +117,12 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/gradient_simplenet.py" timestamp="1490438745560">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/manual/markdown.css" timestamp="1485096004498">
         <mark key="]" line="4" column="145" />
         <mark key="^" line="4" column="145" />
@@ -182,6 +188,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/ch04/gradient_method.py" timestamp="1490437677250">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/result/saito_total.csv" timestamp="1487187188802">
         <mark key="[" line="1" column="0" />
@@ -277,6 +288,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/gradient_method.py" timestamp="1490438060823">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="71" />
+        <mark key="^" line="20" column="71" />
+        <mark key="." line="20" column="71" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/mnist_show.py" timestamp="1490434245266">
         <mark key="]" line="1" column="12" />
         <mark key="^" line="1" column="12" />
@@ -359,6 +376,12 @@
         <mark key="]" line="29" column="17" />
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/two_layer_net.py" timestamp="1490439698109">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="41" column="64" />
+        <mark key="." line="41" column="64" />
+        <mark key="^" line="41" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -462,40 +485,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>W</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
       <register name="0" type="4">
-        <text>network['w1'], network['w2'], network['w3']</text>
+        <text>'W1': numerical_gradient(loss_W, self.params['W1'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY2N1cmFjeV9jbnQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHAgPT0gdFtpXToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9zcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHlfYmF0Y2ggPSBwcmVkaWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWNjdQo=</text>
+        <text encoding="base64">ICAgICAgICBsb3NzID0gY3Jvc3NfZW50cm9weV9lcnJvcih5LCB0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICB5ID0gc29mdG1heCh6KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
