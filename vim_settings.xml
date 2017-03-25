@@ -288,10 +288,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/nueralnet_mnist.py" timestamp="1490434302814">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/nueralnet_mnist.py" timestamp="1490435124276">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="42" column="50" />
+        <mark key="." line="42" column="50" />
+        <mark key="^" line="42" column="50" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/doc2vec.py" timestamp="1487191766744">
         <mark key="[" line="58" column="0" />
@@ -461,7 +462,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>w1</text>
+        <text>W</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
