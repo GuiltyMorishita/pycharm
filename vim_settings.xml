@@ -283,6 +283,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/nueralnet_mnist.py" timestamp="1490434072595">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/doc2vec.py" timestamp="1487191766744">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -303,6 +308,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/minst_show.py" timestamp="1490433502628">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="80" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="79" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_13 - Frame and Bumpers_01.xml" timestamp="1481187405208">
         <mark key="[" line="39" column="3555" />
@@ -445,40 +456,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>netwok</text>
+        <text>w1</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
       <register name="0" type="4">
-        <text>network['W1'],</text>
+        <text>network['w1'], network['w2'], network['w3']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WCA9IG5wLmFycmF5KFsxLjAsIDAuNV0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFkgPSBpZGVudGl0eV9mdW5jdGlvbihBMykK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBpZGVudGl0eV9mdW5jdGlvbih4KToKICAgICAgICByZXR1cm4geAo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhcmRpcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEEzID0gbnAuZG90KFoyLCBXMykK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEzID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
