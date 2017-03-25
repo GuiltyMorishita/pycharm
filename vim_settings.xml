@@ -39,11 +39,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/3.4.3.py" timestamp="1490430252010">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="14" column="60" />
-        <mark key="." line="14" column="60" />
-        <mark key="^" line="14" column="31" />
+      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/3.4.3.py" timestamp="1490430997439">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/runtime.txt" timestamp="1480327532490">
         <mark key="[" line="0" column="0" />
@@ -227,7 +227,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/code.py" timestamp="1490430076719">
+      <file name="/code.py" timestamp="1490430641725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="77" column="22" />
         <mark key="^" line="77" column="22" />
@@ -445,40 +445,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>netwok</text>
       </register>
       <register name="/" type="4">
         <text>\n</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bmV0d29ya1snVzEnXSwg</text>
+        <text>network['W1'],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QjMgPSBucC5hcnJheShbMC4xLCAwLjJdKQo=</text>
+        <text encoding="base64">WCA9IG5wLmFycmF5KFsxLjAsIDAuNV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VzMgPSBucC5hcnJheShbWzAuMSwgMC4zXSwgWzAuMiwgMC40XV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QjIgPSBucC5hcnJheShbMC4xLCAwLjJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VzIgPSBucC5hcnJheShbWzAuMSwgMC40XSwgWzAuMiwgMC41XSwgWzAuMywgMC42XV0pCg==</text>
+        <text encoding="base64">ICAgIFkgPSBpZGVudGl0eV9mdW5jdGlvbihBMykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QjEgPSBucC5hcnJheShbMC4xLCAwLjIsIDAuM10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldHdvcmtbJyddCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VzEgPSBucC5hcnJheShbWzAuMSwgMC4zLCAwLjVdLCBbMC4yLCAwLjQsIDAuNl1dKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBpZGVudGl0eV9mdW5jdGlvbih4KToKICAgICAgICByZXR1cm4geAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIEFORCh4MSwgeDIpOgogICAgdzEsIHcyLCB0aGV0YSA9IDAuNSwgMC41LCAwLjUKICAgIHRtcCA9IHgxKncxICsgeDIqdzIKICAgIGlmIHRtcCA8PSB0aGV0YToKICAgICAgICByZXR1cm4gMAogICAgZWxpZiB0bXAgPiB0aGV0YToKICAgICAgICByZXR1cm4gMQoKQU5EKDAsIDApCkFORCgxLCAwKQpBTkQoMCwgMSkKQU5EKDEsIDEp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEEzID0gbnAuZG90KFoyLCBXMykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIGEzID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
