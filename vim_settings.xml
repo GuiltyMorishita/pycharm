@@ -19,6 +19,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1490425471587">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="5" />
@@ -81,11 +84,11 @@
         <mark key="^" line="1" column="225" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.1.py" timestamp="1490425227805">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.1.py" timestamp="1490425845136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_EN/05 - Brakes, Base_01.xml" timestamp="1481183114368">
         <mark key="[" line="1404" column="45" />
@@ -218,11 +221,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="27" column="44" />
       </file>
-      <file name="/code.py" timestamp="1487184108850">
+      <file name="/code.py" timestamp="1490427270874">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="54" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="54" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
@@ -322,6 +325,11 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.2.py" timestamp="1490425624337">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479198871653">
         <mark key="[" line="29" column="17" />
@@ -439,32 +447,32 @@
       <register name="0" type="2">
         <text encoding="base64">QU5EKDAsIDApCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGVmIEFORCh4MSwgeDIpOgogICAgdzEsIHcyLCB0aGV0YSA9IDAuNSwgMC41LCAwLjUKICAgIHRtcCA9IHgxKncxICsgeDIqdzIKICAgIGlmIHRtcCA8PSB0aGV0YToKICAgICAgICByZXR1cm4gMAogICAgZWxpZiB0bXAgPiB0aGV0YToKICAgICAgICByZXR1cm4gMQoKQU5EKDAsIDApCkFORCgxLCAwKQpBTkQoMCwgMSkKQU5EKDEsIDEp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0X3RhYiA9IHNlbGYuY2hyb21lLnRhYnNbMF0K</text>
+        <text encoding="base64">ICAgIHcxLCB3MiwgdGhldGEgPSAwLjUsIDAuNSwgMC41CiAgICB0bXAgPSB4MSp3MSArIHgyKncyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlID0gc291cC5ib2R5LnRleHQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGV4dCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBiczQgaW1wb3J0IEJlYXV0aWZ1bFNvdXAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0X3RhYiA9IHNlbGYuY2hyb21lLnRhYnNbMF0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMg6aGe5Ly844Kr44O844OJ44KS5rGC44KB44Gf44GE44Kr44O844OJ5ZCNCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlID0gc291cC5ib2R5LnRleHQK</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
