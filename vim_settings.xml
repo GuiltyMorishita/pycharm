@@ -3,10 +3,103 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui2.csv" timestamp="1482735101438">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/db.py" timestamp="1481182538019">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/nueralnet_mnist.py" timestamp="1490435614454">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="42" column="49" />
+        <mark key="." line="42" column="49" />
+        <mark key="^" line="42" column="49" />
+      </file>
+      <file name="/a.dummy" timestamp="1490438999393">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/reciever.pyx" timestamp="1480682885982">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/items.py" timestamp="1480494527315">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="9" column="6" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/two_layer_net.py" timestamp="1490439698109">
+        <mark key="[" line="40" column="60" />
+        <mark key="]" line="41" column="64" />
+        <mark key="." line="41" column="64" />
+        <mark key="^" line="41" column="64" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478589863931">
+        <mark key="[" line="1" column="13" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/katsui1.csv" timestamp="1482673762184">
+        <mark key="[" line="21" column="95" />
+        <mark key="]" line="21" column="95" />
+        <mark key="^" line="25" column="188" />
+        <mark key="." line="21" column="95" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/ch04/train_neuralnet.py" timestamp="1490701588939">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/oyanagi3.csv" timestamp="1482735301206">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/saito1.csv" timestamp="1482734431872">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481278386196">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="27" column="44" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/setup.py" timestamp="1480678740128">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/saito2.csv" timestamp="1482734843232">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/server.py" timestamp="1480513161411">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/create_imput_data.py" timestamp="1481101826157">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481250349408">
+        <mark key="[" line="45" column="6" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/category.py" timestamp="1481088956689">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/LINE_BOT/requirements.txt" timestamp="1480758068898">
         <mark key="[" line="2" column="8" />
@@ -14,30 +107,27 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/saito1.csv" timestamp="1482734431872">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/items.py" timestamp="1479173977290">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1490438999393">
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
+      <file name="$USER_HOME$/Ebios/Python/meme/result/saito_total.csv" timestamp="1487187188802">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480991995847">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/sentence.py" timestamp="1481088927258">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/settings.py" timestamp="1478503050501">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/3.4.3.py" timestamp="1490430997439">
         <mark key="[" line="30" column="23" />
@@ -45,77 +135,23 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/runtime.txt" timestamp="1480327532490">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/LINE_BOT/text_message_events.py" timestamp="1480754263339">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="15" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/saito3.csv" timestamp="1482735195221">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1479267874775">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1480489562218">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/saito1.csv" timestamp="1482673677784">
-        <mark key="[" line="4" column="70" />
-        <mark key="]" line="4" column="70" />
-        <mark key="." line="4" column="70" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/setup.py" timestamp="1480678740128">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui1.csv" timestamp="1485087577125">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="1" column="225" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.1.py" timestamp="1490425845136">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_EN/05 - Brakes, Base_01.xml" timestamp="1481183114368">
-        <mark key="[" line="1404" column="45" />
-        <mark key="]" line="1404" column="0" />
-        <mark key="." line="1404" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/LINE_BOT/Procfile" timestamp="1480758040499">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/hoge.csv" timestamp="1482727680035">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481195314152">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/morishita/train_nueralnet.py" timestamp="1490702193684">
+        <mark key="[" line="42" column="38" />
+        <mark key="]" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+        <mark key="^" line="43" column="29" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/gradient_simplenet.py" timestamp="1490438745560">
         <mark key="[" line="32" column="33" />
@@ -123,47 +159,29 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="7" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/manual/markdown.css" timestamp="1485096004498">
-        <mark key="]" line="4" column="145" />
-        <mark key="^" line="4" column="145" />
-        <mark key="." line="4" column="145" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/katsui2.csv" timestamp="1482674974992">
-        <mark key="[" line="17" column="167" />
-        <mark key="]" line="17" column="167" />
-        <mark key="." line="17" column="167" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/chrysler2vec.py" timestamp="1481250349408">
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/saito2.csv" timestamp="1482734843232">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/client.py" timestamp="1480513127592">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.2.py" timestamp="1490425624337">
+        <mark key="[" line="10" column="16" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/create_imput_data.py" timestamp="1481101826157">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_EN/05 - Brakes, Base_01.xml" timestamp="1481183114368">
+        <mark key="[" line="1404" column="45" />
+        <mark key="]" line="1404" column="0" />
+        <mark key="." line="1404" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/oyanagi1.csv" timestamp="1482673691705">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479198871653">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/items.py" timestamp="1478589863931">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/.gitignore" timestamp="1481195314152">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+        <mark key="^" line="4" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1487188943022">
+      <file name="/Python Console" timestamp="1490700844965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1485092078760">
@@ -172,92 +190,25 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/katsui1.csv" timestamp="1482673762184">
-        <mark key="[" line="21" column="95" />
-        <mark key="]" line="21" column="95" />
-        <mark key="^" line="25" column="188" />
-        <mark key="." line="21" column="95" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480586512000">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/oyanagi3.csv" timestamp="1482735301206">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/meme/result/hoge.csv" timestamp="1482727680035">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/ch04/gradient_method.py" timestamp="1490437677250">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/saito_total.csv" timestamp="1487187188802">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="20" column="57" />
-        <mark key="." line="20" column="57" />
-        <mark key="^" line="20" column="57" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/result/oyanagi_total.csv" timestamp="1487187231602">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/run.py" timestamp="1480682101343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/.gitignore" timestamp="1480503302239">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/items.py" timestamp="1480494527315">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="9" column="6" />
-        <mark key="^" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/dollsoku/dollsoku-curation-bot/curationbot.py" timestamp="1489914379693">
-        <mark key="[" line="98" column="22" />
-        <mark key="]" line="97" column="18" />
-        <mark key="." line="97" column="18" />
-        <mark key="^" line="97" column="18" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/xml2db.py" timestamp="1481278386196">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="27" column="44" />
-      </file>
-      <file name="/code.py" timestamp="1490431950364">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="119" column="22" />
-        <mark key="^" line="119" column="22" />
-        <mark key="." line="119" column="54" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/.gitignore" timestamp="1478500882713">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh.py" timestamp="1479197690965">
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/reciever.pyx" timestamp="1480682885982">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/mnist_show.py" timestamp="1490434245266">
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/settings.py" timestamp="1478591900995">
         <mark key="[" line="29" column="17" />
@@ -265,71 +216,31 @@
         <mark key="^" line="29" column="17" />
         <mark key="." line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/settings.py" timestamp="1478503050501">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/dollface_train.py" timestamp="1479351983991">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/spiders/yugioh_spidier.py" timestamp="1479174284054">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="3" column="29" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/items.py" timestamp="1479173977290">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/LINE_BOT/Procfile" timestamp="1480758040499">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/gradient_method.py" timestamp="1490438060823">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="20" column="71" />
-        <mark key="^" line="20" column="71" />
-        <mark key="." line="20" column="71" />
+      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/.gitignore" timestamp="1477460952480">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/mnist_show.py" timestamp="1490434245266">
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/items.py" timestamp="1478593294530">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/nueralnet_mnist.py" timestamp="1490435614454">
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="42" column="49" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="49" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/doc2vec.py" timestamp="1487191766744">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/server.py" timestamp="1480513161411">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/runtime.txt" timestamp="1480327532490">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/meme/result/katsui3.csv" timestamp="1482733878999">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/meme/thumbcapture.rb" timestamp="1485074939743">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/minst_show.py" timestamp="1490433502628">
@@ -338,50 +249,155 @@
         <mark key="." line="10" column="79" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_13 - Frame and Bumpers_01.xml" timestamp="1481187405208">
-        <mark key="[" line="39" column="3555" />
-        <mark key="]" line="39" column="3555" />
-        <mark key="^" line="39" column="3775" />
-        <mark key="." line="39" column="3555" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/category.py" timestamp="1481088956689">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-      </file>
       <file name="$USER_HOME$/Ebios/Python/meme/.gitignore" timestamp="1485096479102">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/db.py" timestamp="1481182538019">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Ebios/Python/meme/reciever.py" timestamp="1480991995847">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.2.py" timestamp="1490425624337">
-        <mark key="[" line="10" column="16" />
+      <file name="$USER_HOME$/Ebios/Python/dollsoku-curation-bot/curationbot.py" timestamp="1480586512000">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/morishita/two_layer_net.py" timestamp="1490700980128">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/doc2vec.py" timestamp="1487191766744">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/dollsoku/dollsoku-curation-bot/curationbot.py" timestamp="1489914379693">
+        <mark key="[" line="98" column="22" />
+        <mark key="]" line="97" column="18" />
+        <mark key="." line="97" column="18" />
+        <mark key="^" line="97" column="18" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/0-Deep-Learning/2.3.1.py" timestamp="1490425845136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/gradient_method.py" timestamp="1490438060823">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="71" />
+        <mark key="^" line="20" column="71" />
+        <mark key="." line="20" column="71" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hearth_stone_spider.py" timestamp="1480489562218">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+      </file>
+      <file name="/code.py" timestamp="1490431950364">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="119" column="22" />
+        <mark key="^" line="119" column="22" />
+        <mark key="." line="119" column="54" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui2.csv" timestamp="1482735101438">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1479267874775">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/doc2vec/.gitignore" timestamp="1480503302239">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/oyanagi1.csv" timestamp="1482673691705">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/oyanagi_total.csv" timestamp="1487187231602">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/thumbcapture.rb" timestamp="1485074939743">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/shadowverse_gamewith_scrapy/shadowverse_gamewith_scrapy/spiders/shadowverse_gamewith.py" timestamp="1478590144744">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/result/saito3.csv" timestamp="1482735195221">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/xu_13 - Frame and Bumpers_01.xml" timestamp="1481187405208">
+        <mark key="[" line="39" column="3555" />
+        <mark key="]" line="39" column="3555" />
+        <mark key="^" line="39" column="3775" />
+        <mark key="." line="39" column="3555" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/client.py" timestamp="1480513127592">
+        <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/doc2vec/yugioh/yugioh/settings.py" timestamp="1479198871653">
-        <mark key="[" line="29" column="17" />
-        <mark key="]" line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-        <mark key="." line="29" column="17" />
+      <file name="$USER_HOME$/Ebios/Python/meme/saito1.csv" timestamp="1482673677784">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="70" />
+        <mark key="." line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/Ebios/Python/deep-learning-from-scratch/scratch/two_layer_net.py" timestamp="1490439698109">
-        <mark key="[" line="40" column="60" />
-        <mark key="]" line="41" column="64" />
-        <mark key="." line="41" column="64" />
-        <mark key="^" line="41" column="64" />
+      <file name="$USER_HOME$/Ebios/Python/meme/result/katsui1.csv" timestamp="1485087577125">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="1" column="225" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/manual/markdown.css" timestamp="1485096004498">
+        <mark key="]" line="4" column="145" />
+        <mark key="^" line="4" column="145" />
+        <mark key="." line="4" column="145" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doc2Vec/chrysler/XML_JA/sentence.py" timestamp="1481088927258">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/meme/katsui2.csv" timestamp="1482674974992">
+        <mark key="[" line="17" column="167" />
+        <mark key="]" line="17" column="167" />
+        <mark key="." line="17" column="167" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/Doll-Deep-Learning/dollface_train.py" timestamp="1479351983991">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+      </file>
+      <file name="$USER_HOME$/Ebios/Python/hearth_stone/hearth_stone/spiders/hs_spider.py" timestamp="1478593541327">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
     </filemarks>
     <jumps>
@@ -490,35 +506,35 @@
       <register name="/" type="4">
         <text>\n</text>
       </register>
-      <register name="0" type="4">
-        <text>'W1': numerical_gradient(loss_W, self.params['W1'])</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxvc3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9zcwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dHJhaW5fbG9zc19saXN0ID0gW10KdHJhaW5fYWNjX2xpc3QgPSBbXQp0ZXN0X2FjY19saXN0ID0gW10KaXRlcl9wZXJfZXBvY2ggPSBtYXgodHJhaW5fc2l6ZSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dHJhaW5fc2l6ZSA9IHhfdHJhaW4uc2hhcGVbMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb3NzID0gY3Jvc3NfZW50cm9weV9lcnJvcih5LCB0KQo=</text>
+        <text encoding="base64">dHJhaW5fc2l6ZSA9IHhfdHJhaW4uc2hhcGVbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gc29mdG1heCh6KQo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKG9zLnBhcmRpcikgICMg6Kaq44OH44Kj44Os44Kv44OI44Oq44Gu44OV44Kh44Kk44Or44KS44Kk44Oz44Od44O844OI44GZ44KL44Gf44KB44Gu6Kit5a6aCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHN5cywgb3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>action CloseContent</text>
